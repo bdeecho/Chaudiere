@@ -3,20 +3,27 @@
 ## Boiler n°1
 
 * **Date** : Vendredi 4 Novembre
-* **Lieu** : Chênes (33 Tour)
+* **Site** : Chênes
+* **Lieu** : 33 Tour
 * **Style** : House
 * **Programmation** : à définir
+* **Nombre de places** : 90 (la 33 tour ne peut accueuillir que 99 personnes artistes et staff inclus)
 
 ## Boiler n°2
 
 * **Date** : Vendredi 24 Février
-* **Lieu** : Neuville
+* **Site** : Neuville
+* **Lieu** : à définir
 * **Style** : Tech-House
 * **Programmation** : à définir
+* **Nombre de places** : à définir en fonction du lieu
 
 ## Boiler n°3
 
 * **Date** : Vendredi 21 Avril
-* **Lieu** : Saint-Martin (Parking)
+* **Site** : Saint-Martin
+* **Lieu** : Parking
 * **Style** : Techno
 * **Programmation** : à définir
+* **Nombre de places** : à définir
+
