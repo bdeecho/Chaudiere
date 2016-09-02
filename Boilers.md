@@ -4,10 +4,10 @@
 
 * **Date** : Vendredi 4 Novembre
 * **Site** : Chênes
-* **Lieu** : 33 Tour
+* **Lieu** : 33 Tour ou autre
 * **Style** : House
 * **Programmation** : à définir
-* **Nombre de places** : 90 (la 33 tour ne peut accueuillir que 99 personnes artistes et staff inclus)
+* **Nombre de places** : 90 (la 33 tour ne peut accueuillir que 99 personnes artistes et staff inclus), + si autre lieu.
 
 ## Boiler n°2
 
