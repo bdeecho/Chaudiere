@@ -2,13 +2,13 @@
 
 ## Boiler n°1
 
-* **Date** : Vendredi 4 Novembre
-* **Site** : Chênes
-* **Lieu** : à définir
-* **Horaires** : à définir en fonction du nombre d'artistes et du gardiennage
+* **Date** : Vendredi 16 Décembre
+* **Site** : St Martin
+* **Lieu** : Rez de Chaussée
+* **Horaires** : 20h00 - 02h00
 * **Style** : House
 * **Programmation** : Taos / 
-* **Nombre de places** : de 300 à 600
+* **Nombre de places** : 300 (400 personnes attendues en ajoutant le staff + liste)
 
 ## Boiler n°2
 
@@ -23,7 +23,7 @@
 ## Boiler n°3
 
 * **Date** : Vendredi 21 Avril
-* **Site** : Saint-Martin
+* **Site** : Les Chênes
 * **Lieu** : Parking
 * **Horaires** : à définir en fonction du nombre d'artistes et du gardiennage
 * **Style** : Techno
