@@ -1,4 +1,4 @@
-<img style="margin-left=0px" src="https://raw.githubusercontent.com/bdeecho/Chaudiere/master/unnamed.jpg" width=20% />
+<img src="https://raw.githubusercontent.com/bdeecho/Chaudiere/master/unnamed.jpg" width=20% />
 
 # Cadence
 
