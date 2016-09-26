@@ -21,7 +21,7 @@ Dans certains cas, la régie DJ est même situé au milieu de la salle au milieu
 ![alt text](https://github.com/bdeecho/Chaudiere/blob/master/7b5e016a2c420e6c28e7cc4d170b96e4dc0b15c6.jpeg "Scene 360")
 
 
-Le dernier point important de nos événements est les lieux de ces manifestations. Cergy-Pontoise étant situé à une vingtaine de kilomètres de Paris et étant moins bien désservis que cette dernière, nous souhaiterions pour cette première raison organisé cela sur les différents sites de l'Université de Cergy Pontoise.
+Le dernier point important de nos événements est les lieux de ces manifestations. Cergy-Pontoise étant situé à une vingtaine de kilomètres de Paris et étant moins bien désservis que cette dernière, nous souhaiterions pour cette première raison organisé cela sur les différents sites de l'Université de Cergy Pontoise pour les étudiants. Ainsi, nous espérons à travers nos événements faire rayonner le campus universitaire et ainsi créer un lien entre les étudiants et leurs lieux d'études.
 
 
 # Cadence #1
