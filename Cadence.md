@@ -1,3 +1,5 @@
+![alt  text](https://raw.githubusercontent.com/bdeecho/Chaudiere/master/unnamed.jpg)
+
 # Cadence
 
 ## Introduction
