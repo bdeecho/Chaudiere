@@ -18,7 +18,7 @@ En effet, il n'y a pas de scène élevé, seules les barrières collées à la r
 
 Dans certains cas, la régie DJ est même situé au milieu de la salle au milieu du public permettant d'offrir une scène à 360° (voir exemple ci dessous).
 
-![alt text](https://github.com/bdeecho/Chaudiere/blob/master/boiler.jpg "Wood Floor La Concrete Back")
+![alt text](https://github.com/bdeecho/Chaudiere/blob/master/7b5e016a2c420e6c28e7cc4d170b96e4dc0b15c6.jpeg "Scene 360")
 
 
 Le dernier point important de nos événements est les lieux de ces manifestations. Cergy-Pontoise étant situé à une vingtaine de kilomètres de Paris et étant moins bien désservis que cette dernière, nous souhaiterions pour cette première raison organisé cela sur les différents sites de l'Université de Cergy Pontoise.
