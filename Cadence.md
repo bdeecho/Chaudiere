@@ -38,8 +38,13 @@ Voici les plans pour l'événement :
 
 ## Matériels prévus
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pour la régie DJ, un total de 4 platines (CD / Vinyle) seront prévus ainsi qu'une table de mixage, le tout posé sur une table. En ce qui concerne le système son ...
+_Les listes qui suivent sont non exhaustives_
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pour la régie DJ, un total de 4 platines (CD / Vinyle) seront prévus ainsi qu'une table de mixage, le tout posé sur une table. Suivant les artistes il se peut que des instruments comme des synthétiseurs soient aussi utilisé. Le système son sera préciser à la suite de la réunion technique.
 
 ![alt text](https://github.com/bdeecho/Chaudiere/blob/master/Images/tireuses.png "Tireuses à bière")
 
 Pour le bar, un total de 2 meubles composés chacun de 2 tireuses à bières sont prévus, chaque meuble offrant une puissance de 850W et prévu pour recevoir des fûts de 20 à 50L. Notre prestataire Barnum, s'occupe de la livraison, ainsi que de la récupération de ces meubles, mais aussi de la livraison et de la récupération des fûts de bières qu'ils soient vident ou non dès la fin de l'événement.
+Barnum s'occupe aussi des boissons sans alcools.
+
+
