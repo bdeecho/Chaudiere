@@ -36,15 +36,57 @@ Le dernier point important de nos événements est les lieux de ces manifestatio
 Voici les plans pour l'événement :
 [Photo plan].
 
-## Matériels prévus
+## Les différentes parties
 
-_Les listes qui suivent sont non exhaustives_
+### Entrée
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pour la régie DJ, un total de 4 platines (CD / Vinyle) seront prévus ainsi qu'une table de mixage, le tout posé sur une table. Suivant les artistes il se peut que des instruments comme des synthétiseurs soient aussi utilisé. Le système son sera préciser à la suite de la réunion technique.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L'entrée sera située à l'issue de secours à côté des escaliers. Des agents de sécurités et des barrières sont prévus afin de gérer l'affluence et ainsi faire une queue organisée.
+![alt text](https://github.com/bdeecho/Chaudiere/blob/master/Images/Barriere.jpg "Barrière")
+
+A l'entrée, chaque personne sera fouillée. Si des objets dangereux ou des substances illicites sont retrouvées, la personne se verra tout simplement refusé l'entrée.
+
+L'entrée de l'amphithéatre LWOFF servira à la vérification des billets.
+L'entrée et l'amphithéatre TURING serviront pour la mise en place d'un vestiaire gratuit afin de désencombrer les participants à l'événement. Nous utiliserons des portants et des cintres loués ainsi qu'un système de ticket.
+
+### Espace sensibilisation
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L'espace sensibilisation permettra de mettre en place différents stand afin de sensibilisé les participants aux dangers liés à la consommation d'alcool et de drogue, mais aussi aux dangers d'une exposition prolongé dans un lieu avec beaucoup de bruit. La distribution gratuite de tracts, d'éthylotest ou encore de bouchons d'oreilles est prévu sur les stands.
+
+### Toilettes
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; La ou on fait pipi et caca.
+
+### Bar
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Le bar sera mis en place à l'aide de comptoirs fournis par notre prestataire, ainsi il ne sera accessible que pour les membres du staff d'ECHO.
 
 ![alt text](https://github.com/bdeecho/Chaudiere/blob/master/Images/tireuses.png "Tireuses à bière")
 
-Pour le bar, un total de 2 meubles composés chacun de 2 tireuses à bières sont prévus, chaque meuble offrant une puissance de 850W et prévu pour recevoir des fûts de 20 à 50L. Notre prestataire Barnum, s'occupe de la livraison, ainsi que de la récupération de ces meubles, mais aussi de la livraison et de la récupération des fûts de bières qu'ils soient vident ou non dès la fin de l'événement.
-Barnum s'occupe aussi des boissons sans alcools.
+Un total de 2 meubles composés chacun de 2 tireuses à bières sont prévus, chaque meuble offrant une puissance de 850W et prévu pour recevoir des fûts de 20 à 50L. 
+Notre prestataire Barnum, s'occupe de la livraison, ainsi que de la récupération de ces meubles, mais aussi de la livraison et de la récupération des fûts de bières qu'ils soient vident ou non. Les boissons sans alcools sont aussi gérés par ce même prestataire.
+
+### Piste de danse
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; La piste de danse se situera en face de la régie DJ et occupera la majeur partie du hall. Des barrières seront mis en place afin de ne pas géner l'entrée principal avec l'accée au fumoir, les sorties de secours mais aussi l'accée à la régie DJ pour les artistes et le staff.
+
+### Régie DJ
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ce point sera vu lors de la réunion technique.
+
+### Fumoir
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Le fumoir se situera au niveau de l'entrée principal du site de Saint Martin et sera balisé à l'aide de barrière de chantier afin d'éviter que des personnes extérieurs à l'événements puissent y pénétrer sans billets.
+![alt text](https://github.com/bdeecho/Chaudiere/blob/master/Images/cloture.jpg "Cloture")
 
 
+### Stockage
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ce point sera vu lors de la réunion technique afin de savoir quelle lieux sont le plus appropriés.
+
+### Loge artistes
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Le local de notre association (local 117) sera utilisé comme loge pour les artistes le temps de l'événement.
+
+### SAMU / Sécurité
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ce point sera vu lors de la réunion technique afin de savoir quelle lieux sont le plus appropriés.
