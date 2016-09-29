@@ -4,28 +4,26 @@
 
 ## Introduction
 
-Cadence est un projet de l'association _>Echo_, dirigée depuis cette année par __Alexandre FOURGS__ et __Julien ABADJI__. Cette association a pour but de promouvoir la musique électronique par le biais d'événements et de manifestations incitant les adhérents à s'essayer au DJing et à la production. Dans cette optique, >Echo propose un événement majeur et sans précédent sur le campus de l'Université.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Cadence_ est un projet créé par l'association _>ECHO_ à la suite de la reprise de cette dernière par __Julien Abadji__ et __Alexandre Fourgs__. En effet, étant tous deux passionnés par la musique électronique et souhaitant voir le campus universitaire de Cergy-Pontoise plus actif dans la promotion de la culture de la musique électronique, nous nous sommes inspirés des _Boiler Room_ pour créer des événements similaires à l'Université de Cergy-Pontoise.
+Cadence est un projet de l'association _>Echo_, dirigée depuis cette année par __Alexandre FOURGS__ et __Julien ABADJI__. Cette association a pour but premier de promouvoir la musique électronique sur l'Université de Cergy-Pontoise. 
+Dans cette optique, nous proposons ici un événement sans précédent sur le campus de l'Université : Une soirée centrée sur la musique électronique, rassemblant les étudiants curieux et passionnés, où des artistes majoritairement locaux se produisent.
 
 ## Présentation
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Cadence_ est un événement festif axé sur la musique électronique. Plusieurs artistes viennent se produire à tour de rôle à travers des DJ Set ou des Live, le tout étant retransmis en direct sur internet à travers les réseaux sociaux à l'aide de plusieurs caméras installées sur le lieu de l'événement.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Cadence_ est un événement festif axé sur la musique électronique. Plusieurs artistes viennent se produire à tour de rôle au travers de DJ Sets ou de Lives, le tout étant retransmis en direct sur internet à travers les réseaux sociaux à l'aide de plusieurs caméras installées sur le lieu de l'événement.
 
-Le mot _Cadence_ provient du jargon musical, et exprime un mouvement rythmique régulier et cyclique.
+Le mot _Cadence_ provient du jargon musical, et exprime un mouvement rythmique régulier et cyclique, symbolisant le _kick_ singulier de la musique électronique.
 
 Un point important de ces événements est la proximité entre les artistes et le public, les deux étant séparés par de simples barrières de sécurité, plutôt que par une grande scène : le public est en quelques sortes d'égal à égal avec l'artiste.
+Nous aimerions créer une proximité similaire à celle de Concrete, comme vue ci-dessous.
 
 ![alt text](https://github.com/bdeecho/Chaudiere/blob/master/fr-0812-744102-front.jpg "Wood Floor La Concrete Front")
 ![alt text](https://github.com/bdeecho/Chaudiere/blob/master/image.jpg "Wood Floor La Concrete Back")
 
-
-Dans certains cas, la régie DJ est même située au milieu de la salle, et entournée par le public.
+Dans certains événements, la régie DJ peut être située au centre de la scène, la foule se rassemblant alors autour du DJ.
 
 ![alt text](https://github.com/bdeecho/Chaudiere/blob/master/7b5e016a2c420e6c28e7cc4d170b96e4dc0b15c6.jpeg "Scene 360")
 
-
-Le dernier point important de nos événements est le lieu utilisé. Cergy-Pontoise étant situé à une vingtaine de kilomètres de Paris et étant moins bien désservi que cette dernière, nous souhaiterions pour cette première raison organiser cela sur les différents sites de l'Université de Cergy Pontoise pour les étudiants. Ainsi, nous espérons à travers nos événements faire rayonner le campus universitaire et ainsi créer un lien entre les étudiants et leurs lieux d'études.
+Il nous tient à coeur d'organiser _Cadence_ sur les différents campus de l'université. Beaucoup d'étudiants résident aux alentours, et le lieu est facilement accessible depuis Paris. Nous pensons qu'inviter les étudiants à partager un moment de musique dans un lieu habituellement synonyme de travail est une idée qui renforcerait le lien que ceux-ci entretiennent avec l'Université, mais qui ferait également rayonner l'Université de Cergy-Pontoise. Chaque _Cadence_ sera organisée sur un site différent. Nous pensons actuellement aux sites de Saint-Martin, Neuville, et enfin Les Chênes.
 
 
 # Cadence #1
