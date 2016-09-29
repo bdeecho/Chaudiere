@@ -60,16 +60,15 @@ L'entrée de l'amphithéatre Poincaré sera consacré à la vérification des bi
 ### Bar
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Le bar sera mis en place à l'aide de comptoirs fournis par notre prestataire. Le staff d'Echo s'occupera du débit de boissons du début de l'événement jusqu'à 00h30, soit une heure et demi avant la fin de la soirée.
-Un système de marqueurs permettera aux participants et au staff d'être au courant de leur consommation, et permettera de limiter la consommation excessive.
 
 ![alt text](https://github.com/bdeecho/Chaudiere/blob/master/Images/tireuses.png "Tireuses à bière")
 
-Un total de 2 meubles composés chacun de 2 tireuses à bières sont prévus, chaque meuble offrant une puissance de 850W et prévu pour recevoir des fûts de 20 à 50L. 
-Notre prestataire Barnum, s'occupe de la livraison, ainsi que de la récupération de ces meubles, mais aussi de la livraison et de la récupération des fûts de bières qu'ils soient vident ou non. Les boissons sans alcools sont aussi gérés par ce même prestataire.
+Un total de 2 meubles composés chacun de 2 tireuses à bières sont prévus, chaque meuble offrant une puissance de 850W et étant prévu pour recevoir des fûts de 20 à 50L. 
+Notre prestataire Barnum s'occupe de la livraison ainsi que de la récupération de ces meubles, mais aussi de la livraison et de la récupération des fûts de bières qu'ils soient vides ou non. Les boissons sans alcools seront aussi gérées par ce même prestataire.
 
 ### Piste de danse
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; La piste de danse se situera en face de la régie DJ et occupera la majeur partie du hall. Des barrières seront mis en place afin de ne pas géner l'entrée principal avec l'accée au fumoir, les sorties de secours mais aussi l'accée à la régie DJ pour les artistes et le staff.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; La piste de danse se situera en face de la régie DJ et occupera la majeure partie du hall. Des barrières seront mises en place afin de ne pas gêner l'entrée principale, les accès au fumoir et aux issues de secours, et à la régie DJ elle-même.
 
 ### Régie DJ
 
@@ -77,13 +76,14 @@ Notre prestataire Barnum, s'occupe de la livraison, ainsi que de la récupérati
 
 ### Fumoir
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Le fumoir se situera au niveau de l'entrée principal du site de Saint Martin et sera balisé à l'aide de barrière de chantier afin d'éviter que des personnes extérieurs à l'événements puissent y pénétrer sans billets.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Le fumoir se situera au niveau de l'entrée principale du site de Saint Martin et sera balisée à l'aide de barrièree de chantier afin d'éviter que des personnes extérieures à l'événements puissent y pénétrer sans autorisation.
+
 ![alt text](https://github.com/bdeecho/Chaudiere/blob/master/Images/cloture.jpg "Cloture")
 
 
 ### Stockage
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ce point sera vu lors de la réunion technique afin de savoir quelle lieux sont le plus appropriés.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ce point sera vu lors de la réunion technique afin de savoir quels lieux sont les plus appropriés.
 
 ### Loge artistes
 
@@ -95,7 +95,7 @@ Notre prestataire Barnum, s'occupe de la livraison, ainsi que de la récupérati
 
 ## Décoration
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nous souhaitons transformer l'Université le temps d'une soirée, afin que les étudiants puissent voir leur Université sous un autre angle. Pour cela nous avons prévu des décorations simples.
-En effet, nous aimerions ajouter une touche exotique au hall de Saint Martin à l'aide d'arbres synthétiques (Bambou, Palmier, Bananier) et ajouter des colonne lumineuses sans fils. Les tables seront recouvertes de nappes blanches. Nous aimerions aussi accrocher des draps blancs au plafond afin de mieux faire ressortir les jeux de lumières provenants de la scène.
-Bien entendu l'ensemble des décorations seront présentés et validé avec le service hygiène et sécurité au préalable.
-Toute la décoration prévus sera louée sur solutions-événements.com comme le matériel nécessaire au vestiaire. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nous souhaitons transformer l'université le temps d'une soirée, afin que les étudiants puissent voir leur université sous un autre angle. Pour cela nous avons prévu des décorations simples.
+Nous aimerions ajouter une touche exotique au hall de Saint Martin à l'aide d'arbres synthétiques (Bambou, Palmier, Bananier) et ajouter des colonnes lumineuses sans fil. Les tables seront recouvertes de nappes blanches. Nous aimerions aussi accrocher des draps blancs au plafond afin de mieux faire ressortir les jeux de lumière provenants de la scène.
+Bien entendu l'ensemble des décorations seront présentées et validées avec le service hygiène et sécurité au préalable.
+Toute la décoration prévue sera louée sur solutions-événements.com, tout comme comme le matériel nécessaire au vestiaire. 
