@@ -32,33 +32,35 @@ Il nous tient à coeur d'organiser _Cadence_ sur les différents campus de l'uni
 
 ## Présentation
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pour notre premier événement nous souhaiterions l'organiser sur le site de St Martin, plus précisément dans le hall. Un total de 400 personnes, staff, artistes et différent services de sécurités compris, est prévue pour cette événement.
-Voici les plans pour l'événement :
+Notre premier événements se situera donc sur le site de Saint-Martin, plus précisément au rez-de-chaussée, de l'Amphithéâtre Lwoff aux amphithéâtres Turing/Poincaré.
+Nous visons un effectif de 400 personnes, staff, artistes et services de sécurité compris. Nous prévoyons ainsi 350 places pour le public.
+
 [Photo plan].
 
 ## Les différentes parties
 
 ### Entrée
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L'entrée sera située à l'issue de secours à côté des escaliers. Des agents de sécurités et des barrières sont prévus afin de gérer l'affluence et ainsi faire une queue organisée.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L'entrée sera située à l'issue de secours à côté des escaliers. Des agents de sécurité et des barrières sont prévues afin de gérer la queue et de contrôler l'affluence lors de l'arrivée des participants.
 ![alt text](https://github.com/bdeecho/Chaudiere/blob/master/Images/Barriere.jpg "Barrière")
 
-A l'entrée, chaque personne sera fouillée. Si des objets dangereux ou des substances illicites sont retrouvées, la personne se verra tout simplement refusé l'entrée.
+A l'entrée, chaque participant sera fouillée. A l'issue de cette fouille, tout objet dangereux, attitude suspecte ou présence de substances illicites entraînera un refus de l'entrée.
 
-L'entrée de l'amphithéatre LWOFF servira à la vérification des billets.
-L'entrée et l'amphithéatre TURING serviront pour la mise en place d'un vestiaire gratuit afin de désencombrer les participants à l'événement. Nous utiliserons des portants et des cintres loués ainsi qu'un système de ticket.
+L'entrée de l'amphithéatre Poincaré sera consacré à la vérification des billets, tandisque l'amphithéâtre Turing sera réservé au vestiaire. Un kit vestiaire sera loué, permettant ainsi la remise des affaires des participants contre un ticket.
 
 ### Espace sensibilisation
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L'espace sensibilisation permettra de mettre en place différents stand afin de sensibilisé les participants aux dangers liés à la consommation d'alcool et de drogue, mais aussi aux dangers d'une exposition prolongé dans un lieu avec beaucoup de bruit. La distribution gratuite de tracts, d'éthylotest ou encore de bouchons d'oreilles est prévu sur les stands.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L'espace sensibilisation comportera différents stands afin de sensibiliser les participants aux dangers liés à la consommation d'alcool et de drogue, mais aussi aux dangers d'une exposition prolongée dans un espace fortement sonorisé. La distribution gratuite de tracts, d'éthylotests ou encore de bouchons d'oreille est prévue sur ces stands.
 
 ### Toilettes
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; La ou on fait pipi et caca.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Une sécurité accrue sera mise sur la zone des toilettes afin d'éviter tout problème de personne ou de substances. Tout soupçon conduira à une expulsion des personnes mises en cause.
 
 ### Bar
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Le bar sera mis en place à l'aide de comptoirs fournis par notre prestataire, ainsi il ne sera accessible que pour les membres du staff d'ECHO.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Le bar sera mis en place à l'aide de comptoirs fournis par notre prestataire. Le staff d'Echo s'occupera du débit de boissons du début de l'événement jusqu'à 00h30, soit une heure et demi avant la fin de la soirée.
+Un système de marqueurs permettera aux participants et au staff d'être au courant de leur consommation, et permettera de limiter la consommation excessive.
 
 ![alt text](https://github.com/bdeecho/Chaudiere/blob/master/Images/tireuses.png "Tireuses à bière")
 
