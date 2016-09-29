@@ -6,6 +6,7 @@
 
 Cadence est un projet de l'association _>Echo_, dirigée depuis cette année par __Alexandre FOURGS__ et __Julien ABADJI__. Cette association a pour but premier de promouvoir la musique électronique sur l'Université de Cergy-Pontoise. 
 Dans cette optique, nous proposons ici un événement sans précédent sur le campus de l'Université : Une soirée centrée sur la musique électronique, rassemblant les étudiants curieux et passionnés, où des artistes majoritairement locaux se produisent.
+La soirée est destinée aux étudiants et, dans une moindre mesure, aux amateurs de musique extérieurs. 
 
 ## Présentation
 
