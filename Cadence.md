@@ -90,3 +90,10 @@ Notre prestataire Barnum, s'occupe de la livraison, ainsi que de la récupérati
 ### SAMU / Sécurité
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ce point sera vu lors de la réunion technique afin de savoir quelle lieux sont le plus appropriés.
+
+## Décoration
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nous souhaitons transformer l'Université le temps d'une soirée, afin que les étudiants puissent voir leur Université sous un autre angle. Pour cela nous avons prévu des décorations simples.
+En effet, nous aimerions ajouter une touche exotique au hall de Saint Martin à l'aide d'arbres synthétiques (Bambou, Palmier, Bananier) et ajouter des colonne lumineuses sans fils. Les tables seront recouvertes de nappes blanches. Nous aimerions aussi accrocher des draps blancs au plafond afin de mieux faire ressortir les jeux de lumières provenants de la scène.
+Bien entendu l'ensemble des décorations seront présentés et validé avec le service hygiène et sécurité au préalable.
+Toute la décoration prévus sera louée sur solutions-événements.com comme le matériel nécessaire au vestiaire. 
