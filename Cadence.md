@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Cadence est un projet de l'association _>Echo_, dirigée depuis cette année par ____ et ____. Cette association a pour but de promouvoir la musique électronique par le biais d'événements et de manifestations incitant les adhérents à s'essayer au DJing et à la production. Dans cette optique, >Echo propose un événement majeur et sans précédent sur le campus de l'Université.
+Cadence est un projet de l'association _>Echo_, dirigée depuis cette année par __Alexandre FOURGS__ et __Julien ABADJI__. Cette association a pour but de promouvoir la musique électronique par le biais d'événements et de manifestations incitant les adhérents à s'essayer au DJing et à la production. Dans cette optique, >Echo propose un événement majeur et sans précédent sur le campus de l'Université.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Cadence_ est un projet créé par l'association _>ECHO_ à la suite de la reprise de cette dernière par __Julien Abadji__ et __Alexandre Fourgs__. En effet, étant tous deux passionnés par la musique électronique et souhaitant voir le campus universitaire de Cergy-Pontoise plus actif dans la promotion de la culture de la musique électronique, nous nous sommes inspirés des _Boiler Room_ pour créer des événements similaires à l'Université de Cergy-Pontoise.
 
