@@ -36,7 +36,7 @@ Il nous tient à coeur d'organiser _Cadence_ sur les différents campus de l'uni
 Notre premier événements se situera donc sur le site de Saint-Martin, plus précisément au rez-de-chaussée, de l'Amphithéâtre Lwoff aux amphithéâtres Turing/Poincaré.
 Nous visons un effectif de 400 personnes, staff, artistes et services de sécurité compris. Nous prévoyons ainsi 350 places pour le public.
 
-[Photo plan].
+Les plans pour l'événement seront retransmis une fois acquis.
 
 ## Les différentes parties
 
