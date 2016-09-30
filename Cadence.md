@@ -44,7 +44,7 @@ Les plans pour l'événement seront retransmis une fois acquis.
 ### Entrée
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L'entrée sera située à l'issue de secours à côté des escaliers. Des agents de sécurité et des barrières sont prévues afin de gérer la queue et de contrôler l'affluence lors de l'arrivée des participants.
-<img src="https://raw.githubusercontent.com/bdeecho/Chaudiere/master/Images/Barriere.jpg" />
+<img src="https://raw.githubusercontent.com/bdeecho/Chaudiere/master/Images/Barriere.jpg" width=50% />
 
 
 A l'entrée, chaque participant sera fouillée. A l'issue de cette fouille, tout objet dangereux, attitude suspecte ou présence de substances illicites entraînera un refus de l'entrée.
@@ -52,7 +52,6 @@ A l'entrée, chaque participant sera fouillée. A l'issue de cette fouille, tout
 L'entrée de l'amphithéatre Poincaré sera consacré à la vérification des billets, tandisque l'amphithéâtre Turing sera réservé au vestiaire. Un kit vestiaire sera loué, permettant ainsi la remise des affaires des participants contre un ticket.
 
 ### Espace sensibilisation
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L'espace sensibilisation comportera différents stands afin de sensibiliser les participants aux dangers liés à la consommation d'alcool et de drogue, mais aussi aux dangers d'une exposition prolongée dans un espace fortement sonorisé. La distribution gratuite de tracts, d'éthylotests ou encore de bouchons d'oreille est prévue sur ces stands.
 
@@ -81,7 +80,7 @@ Notre prestataire Barnum s'occupe de la livraison ainsi que de la récupération
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Le fumoir se situera au niveau de l'entrée principale du site de Saint Martin et sera balisée à l'aide de barrièree de chantier afin d'éviter que des personnes extérieures à l'événements puissent y pénétrer sans autorisation.
 
-<img src="https://raw.githubusercontent.com/bdeecho/Chaudiere/master/Images/cloture.jpg" />
+<img src="https://raw.githubusercontent.com/bdeecho/Chaudiere/master/Images/cloture.jpg" width=50% />
 
 
 ### Stockage
