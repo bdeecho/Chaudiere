@@ -17,19 +17,20 @@ Le mot _Cadence_ provient du jargon musical, et exprime un mouvement rythmique r
 Un point important de ces événements est la proximité entre les artistes et le public, les deux étant séparés par de simples barrières de sécurité, plutôt que par une grande scène : le public est en quelques sortes d'égal à égal avec l'artiste.
 Nous aimerions créer une proximité similaire à celle de Concrete, comme vue ci-dessous.
 
-![alt text](https://github.com/bdeecho/Chaudiere/blob/master/fr-0812-744102-front.jpg "Wood Floor La Concrete Front")
-![alt text](https://github.com/bdeecho/Chaudiere/blob/master/image.jpg "Wood Floor La Concrete Back")
+<img src="https://raw.githubusercontent.com/bdeecho/Chaudiere/master/fr-0812-744102-front.jpg" />
+<img src="https://raw.githubusercontent.com/bdeecho/Chaudiere/master/image.jpg" />
+
 
 Dans certains événements, la régie DJ peut être située au centre de la scène, la foule se rassemblant alors autour du DJ.
 
-![alt text](https://github.com/bdeecho/Chaudiere/blob/master/7b5e016a2c420e6c28e7cc4d170b96e4dc0b15c6.jpeg "Scene 360")
+<img src="https://raw.githubusercontent.com/bdeecho/Chaudiere/master/7b5e016a2c420e6c28e7cc4d170b96e4dc0b15c6.jpeg" />
 
 Il nous tient à coeur d'organiser _Cadence_ sur les différents campus de l'université. Beaucoup d'étudiants résident aux alentours, et le lieu est facilement accessible depuis Paris. Nous pensons qu'inviter les étudiants à partager un moment de musique dans un lieu habituellement synonyme de travail est une idée qui renforcerait le lien que ceux-ci entretiennent avec l'Université, mais qui ferait également rayonner l'Université de Cergy-Pontoise. Chaque _Cadence_ sera organisée sur un site différent. Nous pensons actuellement aux sites de Saint-Martin, Neuville, et enfin Les Chênes.
 
 
 # Cadence #1
 
-![alt text](https://github.com/bdeecho/Chaudiere/blob/master/14455947_10210703573927519_56456848_o.jpg "UCP St Martin")
+<img src="https://raw.githubusercontent.com/bdeecho/Chaudiere/master/14455947_10210703573927519_56456848_o.jpg" />
 
 ## Présentation
 
@@ -43,7 +44,8 @@ Les plans pour l'événement seront retransmis une fois acquis.
 ### Entrée
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L'entrée sera située à l'issue de secours à côté des escaliers. Des agents de sécurité et des barrières sont prévues afin de gérer la queue et de contrôler l'affluence lors de l'arrivée des participants.
-![alt text](https://github.com/bdeecho/Chaudiere/blob/master/Images/Barriere.jpg "Barrière")
+<img src="https://raw.githubusercontent.com/bdeecho/Chaudiere/master/Images/Barriere.jpg" />
+
 
 A l'entrée, chaque participant sera fouillée. A l'issue de cette fouille, tout objet dangereux, attitude suspecte ou présence de substances illicites entraînera un refus de l'entrée.
 
@@ -62,7 +64,7 @@ L'entrée de l'amphithéatre Poincaré sera consacré à la vérification des bi
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Le bar sera mis en place à l'aide de comptoirs fournis par notre prestataire. Le staff d'Echo s'occupera du débit de boissons du début de l'événement jusqu'à 00h30, soit une heure et demi avant la fin de la soirée.
 
-![alt text](https://github.com/bdeecho/Chaudiere/blob/master/Images/tireuses.png "Tireuses à bière")
+<img src="https://raw.githubusercontent.com/bdeecho/Chaudiere/master/Images/tireuses.png" />
 
 Un total de 2 meubles composés chacun de 2 tireuses à bières sont prévus, chaque meuble offrant une puissance de 850W et étant prévu pour recevoir des fûts de 30L. 
 Notre prestataire Barnum s'occupe de la livraison ainsi que de la récupération de ces meubles, mais aussi de la livraison et de la récupération des fûts de bières qu'ils soient vides ou non. Les boissons sans alcools seront aussi gérées par ce même prestataire.
@@ -79,7 +81,7 @@ Notre prestataire Barnum s'occupe de la livraison ainsi que de la récupération
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Le fumoir se situera au niveau de l'entrée principale du site de Saint Martin et sera balisée à l'aide de barrièree de chantier afin d'éviter que des personnes extérieures à l'événements puissent y pénétrer sans autorisation.
 
-![alt text](https://github.com/bdeecho/Chaudiere/blob/master/Images/cloture.jpg "Cloture")
+<img src="https://raw.githubusercontent.com/bdeecho/Chaudiere/master/Images/cloture.jpg" />
 
 
 ### Stockage
