@@ -64,7 +64,7 @@ L'entrée de l'amphithéatre Poincaré sera consacré à la vérification des bi
 
 ![alt text](https://github.com/bdeecho/Chaudiere/blob/master/Images/tireuses.png "Tireuses à bière")
 
-Un total de 2 meubles composés chacun de 2 tireuses à bières sont prévus, chaque meuble offrant une puissance de 850W et étant prévu pour recevoir des fûts de 20 à 50L. 
+Un total de 2 meubles composés chacun de 2 tireuses à bières sont prévus, chaque meuble offrant une puissance de 850W et étant prévu pour recevoir des fûts de 30L. 
 Notre prestataire Barnum s'occupe de la livraison ainsi que de la récupération de ces meubles, mais aussi de la livraison et de la récupération des fûts de bières qu'ils soient vides ou non. Les boissons sans alcools seront aussi gérées par ce même prestataire.
 
 ### Piste de danse
