@@ -142,6 +142,20 @@ _La partie Caution détaille notamment le montant Décisions Acoustiques._
 | Entrées | 2425    | 3000    |
 | TOTAL   | 6025    | 7200    | 
 
+
+## Bilan prévisionnel
+
+| Source                     | Moyenne  | Maximum  |
+|----------------------------|----------|----------|
+| Recette Bar                | 3600     | 4200     |
+| Entrées                    | 2425     | 3000     |
+| Coût Bar                   | -3295.21 | -3295.21 |
+| Coût Agrémentation         | -1402.44 | -1402.44 |
+| Coût Sécurité              | TODO     |          |
+| Coût Sonorisation + Lights | -5321.26 | -5321.26 |
+| TOTAL                      | -3993.91 | -2818.91 |
+
+
 ### Cautions
 
 Le matériel utilisé par Décisions Acoustiques est un matériel de pointe extrêmement coûteux.
