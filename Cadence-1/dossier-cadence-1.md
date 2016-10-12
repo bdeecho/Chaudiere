@@ -27,8 +27,19 @@ En démarchant un nombre important d'associations lors de l'année dernière et 
 Les _Cadences_ se veulent donc être les soirées qui manquent actuellement dans le paysage festif de l'Université. Des soirées focalisées sur la musique et le partage de celle-ci, mettant en avant des styles et une programmation choisie et éclectique.
 
 ## Cadence #1
+
 ### Informations pratiques
+
+* Date : 16 Décembre 2016
+* Horaires public : 20h-02h
+* Horaires staff (installation, désinstallation, nettoyage) : 19h-03h
+* Lieu : Hall du site de Saint-Martin
+* Places : 300 (250 public, 50 staff + sécurité + liste)
+TODO
+
 ### Démarche
+
+L'idée de ce premier événement est de 
 ### Style et programmation
 ### Lieu et plan
 ### Prestataires
