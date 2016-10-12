@@ -14,7 +14,7 @@ Cette tendance de retransmission en direct est très populaire, comme peuvent en
 
 Il est important pour nous d'organiser les _Cadences_ sur les différents sites de l'Université de Cergy-Pontoise, et ce pour plusieurs raisons : Il nous semble tout d'abord primordial de faire rayonner au mieux notre Université et sa vie étudiante et culturelle, et nous pensons qu'il ne peut pas y avoir meilleure façon que de bénéficier de ses locaux pour organiser des événements. Ensuite, en considérant la très importante population étudiante habitant sur l'agglomération de Cergy-Pontoise, proposer un événement sur leur lieu de vie et de travail symbolise un certain renouveau dans le paysage événementiel, jusqu'ici limité aux _Afterworks_ sans composante culturelle forte. De plus, l'Université étant un lieu très bien desservi par les transports en commun (RER A, Transilien, Noctiliens, commande de VTC), les personnes intéressées par l'événement et résidant ou étudiant à Paris pourront facilement se rendre à nous événements.
 
-Nous songons actuellement à utiliser trois sites : Les Chênes, Saint-Martin, Neuville. (Hirsch est également à l'étude) 
+Nous songeons actuellement à utiliser trois sites : Les Chênes, Saint-Martin, Neuville. (Hirsch est également à l'étude) 
 
 ## Inscription dans notre projet
 
@@ -35,6 +35,7 @@ Les _Cadences_ se veulent donc être les soirées qui manquent actuellement dans
 * Horaires staff (installation, désinstallation, nettoyage) : 19h-03h
 * Lieu : Hall du site de Saint-Martin
 * Places : 300 (250 public, 50 staff + sécurité + liste)
+* Artistes : 3
 TODO
 
 ### Démarche
@@ -45,10 +46,14 @@ TODO
 _Cadence #1_ est une soirée entièrement dédiée à la house et à ses sous-genres généralistes (Deep House, Chicago House, etc.). Ce genre a été choisi car il peut satisfaire aussi bien les enthousiastes curieux que les passionnés : C'est une musique populaire, positive, synonyme de bonne humeur, et donc de bonne ambiance. TODO
 
 La programmation se veut locale et régionnale, laissant la part belle aux artistes montants. 
-Nous travaillons avec la radio [Squaresound](http://www.squaresound.eu/) et leurs artistes, ainsi que d'autres labels parisiens, tels que [Pont Neuf Records](https://www.facebook.com/pontneufrecords/). Nous sommes également en contact avec des groupes de _social digging_ (voir [La Chinerie](http://www.sweetlife.fr/2015/05/05/la-chinerie-communaute-social-digging/), par exemple), qui se sont montrés très intéressés par le projet, et enclins à y participer.
+Nous travaillons avec la radio [Squaresound](http://www.squaresound.eu/) et leurs artistes, ainsi que d'autres labels parisiens, tels que [Pont Neuf Records](https://www.facebook.com/pontneufrecords/). Nous sommes également en contact avec des groupes de _social digging_ (voir [La Chinerie](http://www.sweetlife.fr/2015/05/05/la-chinerie-communaute-social-digging/), par exemple), qui se sont montrés très intéressés par le projet, et enclins à y participer. TODO
 
 
 ### Lieu et plan
+
+Le lieu choisi est le Hall du site de Saint-Martin : Fort de ses 500m², il saura accueilir dans de bonnes conditions les participants à l'événement. De plus, grâce à sa forme, il nous permet de placer de façon optimale les différents espaces de l'événement. IMAGE
+
+
 ### Prestataires
 #### Bar
 #### Sécurité
