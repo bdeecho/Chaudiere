@@ -90,10 +90,21 @@ TODO
 
 Cette section est, avec la section prévention de l'événement, la plus importante. 
 Décisions Acoustiques est une entreprise s'occupant d'un important nombre d'aspects -dans notre cas critiques- d'un événement.
-Ce prestataire s'occupe de l'éclairage, de la sonorisation, mais aussi de la location de matériel selon les souhaits des artistes et de leur accueil. Ceci nous permet d'inviter des artistes reconnus sans se soucier de
-Afin de recevoir les artistes dans les meilleures conditions et pour proposer un événement de qualité, nous avons fait le choix de déléguer l
+Ce prestataire s'occupe de l'éclairage, de la sonorisation, mais aussi de la location de matériel selon les souhaits des artistes et de leur accueil. 
+Afin de recevoir les artistes dans les meilleures conditions et pour proposer un événement de qualité, nous avons fait le choix de déléguer l'entièreté de ces problématiques à notre prestataire. Ainsi, tous les détails techniques liés au matériel, à la puissance électrique et aux exigences des artistes sont gérés par celui-ci , permettant à notre staff étudiant de se focaliser sur d'autres tâches sans se soucier d'avoir un souci majeur sur la facette la plus importante et complexe du projet.
+
+Il va de soi que c'est le prestataire qui interagira le plus avec les services de sécurité de l'Université, en organisant par exemple une visite du lieu et une réunion technique, afin de déterminer le plan d'action à mettre en place.
+
+De plus, Décisons Acoustiques ayant travaillé sur la sonorisation d'événements de grande ampleur dans des lieux insolites (Hors Série #1 à la Gare Saint-Lazare), nous en avons conclu, après divers échanges téléphoniques, que c'était le prestataire le plus à même de comprendre le projet et de proposer un service optimal et qualitatif.
+
 ### Partenaires
+
+TODO
+
 ## Budget
+
+Le budget de l'événement est complexe : de nombreux prestataires entrent en jeu, ce qui signifie que divers accomptes et cautions sont à inclure dans nos calculs.
+Il est important pour nous de proposer un événement qui marque : L'effectif est certes réduit, mais la soirée doit prouver que _Cadence_ est un projet qui répond à un besoin, qui s'inscrit dans la continuité des projets de l'association aussi bien que de la vie culturelle de l'Université, et qui montre une image certes différente, mais non moins professionnelle, de l'Université.
 ### Dépenses
 ### Recettes
 ### Cautions
