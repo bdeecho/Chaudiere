@@ -143,4 +143,14 @@ _La partie Caution détaille notamment le montant Décisions Acoustiques._
 | TOTAL   | 6025    | 7200    | 
 
 ### Cautions
+
+Le matériel utilisé par Décisions Acoustiques est un matériel de pointe extrêmement coûteux.
+Par ce fait, la caution résultant de l'utilisation de ce matériel est très élevée, mais reste dérisoire à côté du coût réel du matériel. 
+
+En détail, Décisions Acoustiques fait appel à un prestataire de location, qui requiert une provision de la part de l'organisme organisant l'événement, c'est à dire >Echo.
+
+Si l'organisme est une entreprise, le montant de la caution est nul, et l'entreprise doit s'acquitter d'un accompte de 50% la valeur de la commande.
+Dans notre cas, étant une association ou un particulier, il nous faut émettre un chèque de caution égal à 15 fois le montant de la location, ce qui explique l'important montant de la caution.
+
+
 ## Risques et enjeux
