@@ -39,8 +39,13 @@ TODO
 
 ### Démarche
 
-L'idée de ce premier événement est de 
+TODO  
 ### Style et programmation
+
+_Cadence #1_ est une soirée entièrement dédiée à la house et à ses sous-genres généralistes (Deep House, Chicago House, etc.). Ce genre a été choisi car il peut satisfaire aussi bien les enthousiastes curieux que les passionnés : C'est une musique populaire, positive, synonyme de bonne humeur, et donc de bonne ambiance. TODO
+
+La programmation se veut locale et régionnale, laissant la part belle aux artistes montants. 
+Nous travaillons avec la radio [Squaresound](http://www.squaresound.eu/) et leurs artistes, 
 ### Lieu et plan
 ### Prestataires
 #### Bar
