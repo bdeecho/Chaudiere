@@ -114,8 +114,16 @@ Il est important pour nous de proposer un événement qui marque : L'effectif es
 
 ### Dépenses
 _Vous retrouverez les devis joints au dossier, où figure le détail de chaque prestataire._
+_La partie Caution détaille notamment le montant Décisions Acoustiques._
 
-
+| Prestataire            | Devis    | Accompte | Caution | TOTAL    |
+|------------------------|----------|----------|---------|----------|
+| Barnum                 | 3295.21  | 988.53   | 1000    | 4295.21  |
+| Solutions-événement    | 1402.44  | 420.73   |         | 1402.44  |
+| Kiloutou               |          |          |         | TODO     |
+| Décisions Acoustiques  | 5 321.26 |          | 79818.9 | 85140.16 |
+| Prévention             |          |          |         | TODO     |
+| TOTAL                  | 10018.91 |          |         | 90837.81 |
 ### Recettes
 ### Cautions
 ## Risques et enjeux
