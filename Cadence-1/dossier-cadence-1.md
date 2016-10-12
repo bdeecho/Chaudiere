@@ -14,12 +14,15 @@ Cette tendance de retransmission en direct est très populaire, comme peuvent en
 
 Il est important pour nous d'organiser les _Cadences_ sur les différents sites de l'Université de Cergy-Pontoise, et ce pour plusieurs raisons : Il nous semble tout d'abord primordial de faire rayonner au mieux notre Université et sa vie étudiante et culturelle, et nous pensons qu'il ne peut pas y avoir meilleure façon que de bénéficier de ses locaux pour organiser des événements. Ensuite, en considérant la très importante population étudiante habitant sur l'agglomération de Cergy-Pontoise, proposer un événement sur leur leur lieu de vie et de travail symbolise un certain renouveau dans le paysage événementiel, jusqu'ici limité aux _Afterworks_ sans composante culturelle forte. De plus, l'Université étant un lieu très bien desservi par les transports en commun (RER A, Transilien, Noctiliens, commande de VTC), les personnes intéressées par l'événement et résidant ou étudiant à Paris pourront facilement se rendre à nous événements.
 
-(Le mot Cadence provient du jargon musical, et exprime un mouvement rythmique régulier et cyclique, symbolisant le kick singulier de la musique électronique.)
-
-Il nous tient à coeur d'organiser Cadence sur les différents campus de l'université. Beaucoup d'étudiants résident aux alentours, et le lieu est facilement accessible depuis Paris. Nous pensons qu'inviter les étudiants à partager un moment de musique dans un lieu habituellement synonyme de travail est une idée qui renforcerait le lien que ceux-ci entretiennent avec l'Université, mais qui ferait également rayonner l'Université de Cergy-Pontoise. Chaque Cadence sera organisée sur un site différent. Nous pensons actuellement aux sites de Saint-Martin, Neuville, et enfin Les Chênes.
+Nous songons actuellement à utiliser trois sites : Les Chênes, Saint-Martin, Neuville. (Hirsch est également à l'étude) 
 
 ## Inscription dans notre projet
+
+Les Cadences s'inscrivent dans un projet, plus général, de l'association >Echo. Dans notre démarche de promouvoir la musique électronique sur le campus, nous proposons des événements de nature différente afin d'accompagner _crescendo_ les étudiants dans leur découverte : Tout d'abord en proposant des ateliers permettant la découverte et l'entraînement au DJing et à la production, puis en organisant des apéritifs où ceux-ci peuvent s'essayer face à un public plus large, et enfin aux _Cadences_, où ils peuvent profiter d'une soirée centrée sur la musique qu'ils aiment, composée d'artistes reconnus qui exprimeront leur savoir faire et leur vision de la musique électronique. TODO
+
 ## Inscription dans le projet de la vie culturelle
+
+Il est 
 ## Cadence #1
 ### Informations pratiques
 ### Démarche
