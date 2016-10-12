@@ -45,7 +45,9 @@ TODO
 _Cadence #1_ est une soirée entièrement dédiée à la house et à ses sous-genres généralistes (Deep House, Chicago House, etc.). Ce genre a été choisi car il peut satisfaire aussi bien les enthousiastes curieux que les passionnés : C'est une musique populaire, positive, synonyme de bonne humeur, et donc de bonne ambiance. TODO
 
 La programmation se veut locale et régionnale, laissant la part belle aux artistes montants. 
-Nous travaillons avec la radio [Squaresound](http://www.squaresound.eu/) et leurs artistes, 
+Nous travaillons avec la radio [Squaresound](http://www.squaresound.eu/) et leurs artistes, ainsi que d'autres labels parisiens, tels que [Pont Neuf Records](https://www.facebook.com/pontneufrecords/). Nous sommes également en contact avec des groupes de _social digging_ (voir [La Chinerie](http://www.sweetlife.fr/2015/05/05/la-chinerie-communaute-social-digging/), par exemple), qui se sont montrés très intéressés par le projet, et enclins à y participer.
+
+
 ### Lieu et plan
 ### Prestataires
 #### Bar
