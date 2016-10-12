@@ -20,9 +20,10 @@ Nous songons actuellement à utiliser trois sites : Les Chênes, Saint-Martin, N
 
 Les Cadences s'inscrivent dans un projet, plus général, de l'association >Echo. Dans notre démarche de promouvoir la musique électronique sur le campus, nous proposons des événements de nature différente afin d'accompagner _crescendo_ les étudiants dans leur découverte : Tout d'abord en proposant des ateliers permettant la découverte et l'entraînement au DJing et à la production, puis en organisant des apéritifs où ceux-ci peuvent s'essayer face à un public plus large, et enfin aux _Cadences_, où ils peuvent profiter d'une soirée centrée sur la musique qu'ils aiment, composée d'artistes reconnus qui exprimeront leur savoir faire et leur vision de la musique électronique. TODO
 
-## Inscription dans le projet de la vie culturelle
+## Inscription dans le projet de la vie culturelle universitaire
 
-Il est 
+La musique électronique est un genre sous-représenté sur le campus. Beaucoup de soirées sont organisées, mais la musique diffusée n'est pas une priorité des organisateurs : ceux-ci misent plutôt sur l'esprit "soirée étudiante", plus que sur un aspect culturel fort. Quelques _Afterworks_ musique électronique ont été organisés par le passé, mais il n'existe à ce jour aucun projet dédié à cette culture, comme il peut en avoir pour la culture _hip-hop_ par exemple.
+En démarchant un nombre important d'associations lors de l'année dernière et des différents rassemblements associatifs, nous avons réalisé que cette absence de représentation de ces cultures n'était pas due à un manque d'intérêt des étudiants : bien au contraire, un grand nombre d'étudiants se sont montré très intéressés par notre projet, ainsi que plusieurs associations, déclarant vouloir nous accompagner sur les _Cadences_ (Hérodote, par exemple).
 ## Cadence #1
 ### Informations pratiques
 ### Démarche
