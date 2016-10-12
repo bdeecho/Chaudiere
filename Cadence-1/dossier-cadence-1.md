@@ -136,10 +136,11 @@ _La partie Caution détaille notamment le montant Décisions Acoustiques._
 
 ## Recettes
 
-| Source  | Minimum | Moyenne | Maximum |
-|---------|---------|---------|---------|
-| Bar     |         |         |         |
-| Entrées |         |         |         |
+| Source  | Moyenne | Maximum |
+|---------|---------|---------|
+| Bar     | 3600    | 4200    |
+| Entrées | 2425    | 3000    |
+| TOTAL   | 6025    | 7200    | 
 
 ### Cautions
 ## Risques et enjeux
