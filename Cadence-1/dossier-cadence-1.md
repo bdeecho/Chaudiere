@@ -63,13 +63,35 @@ Afin d'assurer une soirée se déroulant dans des conditions optimales, nous avo
 #### Bar
 
 * Prestataire : [Barnum]()
-* Prestation : Livraison, installation, surveillance
+* Prestation : Location, livraison, installation, surveillance
 
 
-Ce prestataire nous fournit les boissons alcoolisées (bière) et non alcoolisées (soda et eau), ainsi que le matériel de tirage, ainsi que des bacs à glaçons. Celui-ci 
+Ce prestataire nous fournit les boissons alcoolisées (bière) et non alcoolisées (soda et eau), ainsi que le matériel de tirage, ainsi que des bacs à glaçons. L'installation du matériel est comprise, ainsi que la vérification de fonctionnement par un technicien au cours de la soirée.
+
 #### Sécurité
+
+* Prestataire :
+* Prestation : 
+
+TODO
+
 #### Prévention
+
+* Prestataires :
+* Prestation : 
+
+
+TODO
+
 #### Sonorisation et lumières
+
+* Prestataire : [Décisions Acoustiques](http://www.decisions-acoustiques.fr/) 
+* Prestation : Location, livraison, installation, réglages
+
+Cette section est, avec la section prévention de l'événement, la plus importante. 
+Décisions Acoustiques est une entreprise s'occupant d'un important nombre d'aspects -dans notre cas critiques- d'un événement.
+Ce prestataire s'occupe de l'éclairage, de la sonorisation, mais aussi de la location de matériel selon les souhaits des artistes et de leur accueil. Ceci nous permet d'inviter des artistes reconnus sans se soucier de
+Afin de recevoir les artistes dans les meilleures conditions et pour proposer un événement de qualité, nous avons fait le choix de déléguer l
 ### Partenaires
 ## Budget
 ### Dépenses
