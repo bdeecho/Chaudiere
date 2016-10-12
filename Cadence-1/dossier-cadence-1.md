@@ -68,9 +68,14 @@ Afin d'assurer une soirée se déroulant dans des conditions optimales, nous avo
 
 Ce prestataire nous fournit les boissons alcoolisées (bière) et non alcoolisées (soda et eau), ainsi que le matériel de tirage, ainsi que des bacs à glaçons. L'installation du matériel est comprise, ainsi que la vérification de fonctionnement par un technicien au cours de la soirée.
 
+
+#### Agrémentation
+
+* Prestataire : Solutions-événement
+* Prestation : 
 #### Sécurité
 
-* Prestataire :
+* Prestataire : Kiloutou
 * Prestation : 
 
 TODO
@@ -105,7 +110,12 @@ TODO
 
 Le budget de l'événement est complexe : de nombreux prestataires entrent en jeu, ce qui signifie que divers accomptes et cautions sont à inclure dans nos calculs.
 Il est important pour nous de proposer un événement qui marque : L'effectif est certes réduit, mais la soirée doit prouver que _Cadence_ est un projet qui répond à un besoin, qui s'inscrit dans la continuité des projets de l'association aussi bien que de la vie culturelle de l'Université, et qui montre une image certes différente, mais non moins professionnelle, de l'Université.
+
+
 ### Dépenses
+_Vous retrouverez les devis joints au dossier, où figure le détail de chaque prestataire._
+
+
 ### Recettes
 ### Cautions
 ## Risques et enjeux
