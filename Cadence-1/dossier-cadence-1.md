@@ -155,6 +155,7 @@ _La partie Caution détaille notamment le montant Décisions Acoustiques._
 | Coût Sonorisation + Lights | -5321.26 | -5321.26 |
 | TOTAL                      | -3993.91 | -2818.91 |
 
+\*Les cautions sont exclues du bilan.
 
 ### Cautions
 
