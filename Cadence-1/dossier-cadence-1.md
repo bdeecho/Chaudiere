@@ -36,6 +36,7 @@ Les _Cadences_ se veulent donc être les soirées qui manquent actuellement dans
 * Lieu : Hall du site de Saint-Martin
 * Places : 300 (250 public, 50 staff + sécurité + liste)
 * Artistes : 3
+* PRIX TODO
 TODO
 
 ### Démarche
@@ -52,15 +53,26 @@ Nous travaillons avec la radio [Squaresound](http://www.squaresound.eu/) et leur
 ### Lieu et plan
 
 Le lieu choisi est le Hall du site de Saint-Martin : Fort de ses 500m², il saura accueilir dans de bonnes conditions les participants à l'événement. De plus, grâce à sa forme, il nous permet de placer de façon optimale les différents espaces de l'événement. IMAGE
+TODO
 
 
 ### Prestataires
+
+Afin d'assurer une soirée se déroulant dans des conditions optimales, nous avons fait le choix de recourir à des prestatires s'occupant des points critiques de l'événement. TODO(C'est dire que l'alcool c'est un point critique ?)
+
 #### Bar
+
+* Prestataire : [Barnum]()
+* Prestation : Livraison, installation, surveillance
+
+
+Ce prestataire nous fournit les boissons alcoolisées (bière) et non alcoolisées (soda et eau), ainsi que le matériel de tirage, ainsi que des bacs à glaçons. Celui-ci 
 #### Sécurité
 #### Prévention
 #### Sonorisation et lumières
 ### Partenaires
 ## Budget
 ### Dépenses
+### Recettes
 ### Cautions
 ## Risques et enjeux
