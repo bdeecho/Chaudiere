@@ -129,8 +129,8 @@ _La partie Caution détaille notamment le montant Décisions Acoustiques._
 
 | Produit        | Prix adhérent | Prix non adhérent |
 |----------------|---------------|-------------------|
-| Demi Heineken  | 4             | 4                 |
-| Pinte Heineken | 3             | 3                 |
+| Demi Heineken  | 3             | 3                 |
+| Pinte Heineken | 4             | 4                 |
 | Entrées        | 7             | 10                |
 | Soft           | 0             | 0                 |
 
@@ -152,5 +152,17 @@ En détail, Décisions Acoustiques fait appel à un prestataire de location, qui
 Si l'organisme est une entreprise, le montant de la caution est nul, et l'entreprise doit s'acquitter d'un accompte de 50% la valeur de la commande.
 Dans notre cas, étant une association ou un particulier, il nous faut émettre un chèque de caution égal à 15 fois le montant de la location, ce qui explique l'important montant de la caution.
 
-
 ## Risques et enjeux
+
+TODO
+
++: 
+S'imposer comme l'événement électro du coin
+Fédrérer
+Rayonner
+
+-:
+
+Déficit important (4000€)
+Sécurité ?
+Boissons, drogues, volume sonore ?
