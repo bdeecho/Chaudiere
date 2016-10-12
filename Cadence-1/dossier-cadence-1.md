@@ -123,7 +123,23 @@ _La partie Caution détaille notamment le montant Décisions Acoustiques._
 | Kiloutou               |          |          |         | TODO     |
 | Décisions Acoustiques  | 5 321.26 |          | 79818.9 | 85140.16 |
 | Prévention             |          |          |         | TODO     |
-| TOTAL                  | 10018.91 |          |         | 90837.81 |
-### Recettes
+| TOTAL                  | 10018.91 | 1409.26  | 80818.9 | 90837.81 |
+
+## Tarifs
+
+| Produit        | Prix adhérent | Prix non adhérent |
+|----------------|---------------|-------------------|
+| Demi Heineken  | 4             | 4                 |
+| Pinte Heineken | 3             | 3                 |
+| Entrées        | 7             | 10                |
+| Soft           | 0             | 0                 |
+
+## Recettes
+
+| Source  | Minimum | Moyenne | Maximum |
+|---------|---------|---------|---------|
+| Bar     |         |         |         |
+| Entrées |         |         |         |
+
 ### Cautions
 ## Risques et enjeux
