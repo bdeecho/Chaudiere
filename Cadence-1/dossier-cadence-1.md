@@ -169,9 +169,9 @@ _La partie Caution détaille notamment le montant Décisions Acoustiques._
 |------------------------|----------|----------|---------|----------|
 | Barnum                 | 3295.21  | 988.53   | 1000    | 4295.21  |
 | Solutions-événement    | 1402.44  | 420.73   |         | 1402.44  |
-| Kiloutou               |          |          |         | TODO     |
+| Kiloutou               |          |          |         |          |
 | Décisions Acoustiques  | 5 321.26 |          | 79818.9 | 85140.16 |
-| Prévention             |          |          |         | TODO     |
+| Prévention             |          |          |         |          |
 | TOTAL                  | 10018.91 | 1409.26  | 80818.9 | 90837.81 |
 
 ## Tarifs
@@ -200,7 +200,7 @@ _La partie Caution détaille notamment le montant Décisions Acoustiques._
 | Entrées                    | 2425     | 3000     |
 | Coût Bar                   | -3295.21 | -3295.21 |
 | Coût Agrémentation         | -1402.44 | -1402.44 |
-| Coût Sécurité              | TODO     |          |
+| Coût Sécurité              | ----     | ----     |
 | Coût Sonorisation + Lights | -5321.26 | -5321.26 |
 | TOTAL                      | -3993.91 | -2818.91 |
 
