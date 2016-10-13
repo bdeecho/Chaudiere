@@ -11,7 +11,7 @@ Un point important de ces événements est d'avoir une proximité entre artistes
 ![Woodfloor Concrete](https://github.com/bdeecho/Chaudiere/raw/master/fr-0812-744102-front.jpg)
 Cette proximité permet un réel échange entre l'artiste et son public, à la différence de l'agencement classique des boîtes de nuit, opposant DJ sur une scène surélevée, et public, situé à plusieurs mètres de cette même scène. L'artiste peut également se retrouver entouré par la foule, créant ainsi un lien encore plus fort. 
 En plus de cette disposition particulière, l'événement vise à être retransmis en direct sur internet. Ceci nous permet d'agrandir la portée de notre événement.
-
+![Boiler Youtube](https://github.com/bdeecho/Chaudiere/raw/master/Images/Screenshot%202016-10-13%20at%2010.42.00.png)
 Cette tendance de retransmission en direct est très populaire, comme peuvent en témoigner les événements _Boiler Room_, soirées mondialement connues où un artiste se produit pour un nombre restreint de personnes physiques, mais pour un très grand nombre d'internautes. 
 ![Boiler Rooms](https://github.com/bdeecho/Chaudiere/raw/master/7b5e016a2c420e6c28e7cc4d170b96e4dc0b15c6.jpeg)
 Il est important pour nous d'organiser les _Cadences_ sur les différents sites de l'Université de Cergy-Pontoise, et ce pour plusieurs raisons : Il nous semble tout d'abord primordial de faire rayonner au mieux notre Université et sa vie étudiante et culturelle, et nous pensons qu'il ne peut pas y avoir meilleure façon que de bénéficier de ses locaux pour organiser des événements. Ensuite, en considérant la très importante population étudiante habitant sur l'agglomération de Cergy-Pontoise, proposer un événement sur leur lieu de vie et de travail symbolise un certain renouveau dans le paysage événementiel, jusqu'ici limité aux _Afterworks_ sans composante culturelle forte. De plus, l'Université étant un lieu très bien desservi par les transports en commun (RER A, Transilien, Noctiliens, commande de VTC), les personnes intéressées par l'événement et résidant ou étudiant à Paris pourront facilement se rendre à nous événements.
@@ -29,6 +29,8 @@ En démarchant un nombre important d'associations lors de l'année dernière et 
 Les _Cadences_ se veulent donc être les soirées qui manquent actuellement dans le paysage festif de l'Université. Des soirées focalisées sur la musique et le partage de celle-ci, mettant en avant des styles et une programmation choisie et éclectique.
 
 ## Cadence #1
+
+![StMartin](https://www.u-cergy.fr/_contents/ametys-internal%253Asites/www/ametys-internal%253Acontents/ufr-st-article/_metadata/illustration/image/Saint-Martin1%25201024X768%252072ah.jpg?objectId=defaultWebContent://b06a6b0c-1a66-492b-b594-db94dacdd69c)
 
 ### Informations pratiques
 
@@ -54,7 +56,7 @@ _Cadence #1_ est une soirée entièrement dédiée à la house et à ses sous-ge
 
 La programmation se veut locale et régionnale, laissant la part belle aux artistes montants. 
 Nous travaillons avec la radio [Squaresound](http://www.squaresound.eu/) et leurs artistes, ainsi que d'autres labels parisiens, tels que [Pont Neuf Records](https://www.facebook.com/pontneufrecords/). Nous sommes également en contact avec des groupes de _social digging*_ (voir [La Chinerie](http://www.sweetlife.fr/2015/05/05/la-chinerie-communaute-social-digging/), par exemple), qui se sont montrés très intéressés par le projet, et enclins à y participer.
-
+![Apéro Chineurs](http://alafolie.paris/wp-content/uploads/2016/02/12650800_1768967200000504_1880670322242492748_n-2.png)
 \**Le digging peut être vu comme un état d'esprit de recherche permanente de nouvelles sonorités, d'artistes peu connus ou oubliés, et se prête donc parfaitement aux Cadences, qui proposent de faire voyager l'oreille de leurs participants.
 
 ### Lieu et plan
@@ -132,7 +134,12 @@ Afin de recevoir les artistes dans les meilleures conditions et pour proposer un
 
 Il va de soi que c'est le prestataire qui interagira le plus avec les services de sécurité de l'Université, en organisant par exemple une visite du lieu et une réunion technique, afin de déterminer le plan d'action à mettre en place.
 
+
+![StLaz1](http://s1.lemde.fr/image/2016/09/05/534x0/4992411_6_5747_2016-09-05-60fa42c-27592-1tzwkh9_6aac4c8422690e3b41574565f57b47a2.jpg)
+
 De plus, Décisons Acoustiques ayant travaillé sur la sonorisation d'événements de grande ampleur dans des lieux insolites (Hors Série #1 à la Gare Saint-Lazare), nous en avons conclu, après divers échanges téléphoniques, que c'était le prestataire le plus à même de comprendre le projet et de proposer un service optimal et qualitatif.
+
+![StLaz2](http://s2.lemde.fr/image/2016/09/05/534x0/4992419_6_a456_2016-09-05-11d8c20-20722-jpmda4_9651759de02d9a28ea12cc1d0cb0885b.jpg)
 
 ### Partenaires
 
@@ -140,6 +147,8 @@ De plus, Décisons Acoustiques ayant travaillé sur la sonorisation d'événemen
 Nous avons démarché différents partenaires afin de proposer un événement de très grande qualité aux participants. Comme dit précédemment, nous apportons une importance à promouvoir les entrepreneurs locaux :  ainsi le Camion du Vexin sera présent lors de notre événement afin de proposer en début de soirée des repas aux participants et au staff comme il le fait tous les midi sur le site des Chênes.
 
 ### SquareSound
+
+![sqsnd](http://www.squaresound.eu/wp-content/uploads/2016/08/SquareSound_Logo_White_355x100.png)
 Un autre point important et le soutien apporté par Squaresound que ce soit sur le plan promotionnel, technique et artisitique. En effet, Squaresound serait prêt à partager avec nous leur savoir faire dans la mise en place de la retransmission de l'événement en ligne, mais aussi à organiser des interviews des artistes durant l'événement. De plus, ils nous permettent de profiter de leur carnet d'adresses afin de booker des artistes pour nos événements. Squaresound est proche du collectif LaRuche, qui organise divers événements sur l'Université.
 
 ### Association(s)
