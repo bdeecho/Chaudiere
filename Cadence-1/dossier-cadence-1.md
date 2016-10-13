@@ -7,11 +7,13 @@
 ## Concept
 
 Les Cadences sont des soirées festives axées sur la musique électronique se déroulant sur les différents sites de l'Université de Cergy-Pontoise. Plusieurs artistes viennent se produire à tour de rôle au travers de DJ sets ou de Live, le tout étant retransmis en direct sur internet.
-Un point important de ces événements est d'avoir une proximité entre artistes et public, à l'image du _Woodfloor_ du club parisien _Concrete_. IMAGE Cette proximité permet un réel échange entre l'artiste et son public, à la différence de l'agencement classique des boîtes de nuit, opposant DJ sur une scène surélevée, et public, situé à plusieurs mètres de cette même scène. L'artiste peut également se retrouver entouré par la foule, créant ainsi un lien encore plus fort. 
+Un point important de ces événements est d'avoir une proximité entre artistes et public, à l'image du _Woodfloor_ du club parisien _Concrete_.
+![Woodfloor Concrete](https://github.com/bdeecho/Chaudiere/raw/master/fr-0812-744102-front.jpg)
+Cette proximité permet un réel échange entre l'artiste et son public, à la différence de l'agencement classique des boîtes de nuit, opposant DJ sur une scène surélevée, et public, situé à plusieurs mètres de cette même scène. L'artiste peut également se retrouver entouré par la foule, créant ainsi un lien encore plus fort. 
 En plus de cette disposition particulière, l'événement vise à être retransmis en direct sur internet. Ceci nous permet d'agrandir la portée de notre événement.
 
-Cette tendance de retransmission en direct est très populaire, comme peuvent en témoigner les événements _Boiler Room_, soirées mondialement connues où un artiste se produit pour un nombre restreint de personnes physiques, mais pour un très grand nombre d'internautes. IMAGE
-
+Cette tendance de retransmission en direct est très populaire, comme peuvent en témoigner les événements _Boiler Room_, soirées mondialement connues où un artiste se produit pour un nombre restreint de personnes physiques, mais pour un très grand nombre d'internautes. 
+![Boiler Rooms](https://github.com/bdeecho/Chaudiere/raw/master/7b5e016a2c420e6c28e7cc4d170b96e4dc0b15c6.jpeg)
 Il est important pour nous d'organiser les _Cadences_ sur les différents sites de l'Université de Cergy-Pontoise, et ce pour plusieurs raisons : Il nous semble tout d'abord primordial de faire rayonner au mieux notre Université et sa vie étudiante et culturelle, et nous pensons qu'il ne peut pas y avoir meilleure façon que de bénéficier de ses locaux pour organiser des événements. Ensuite, en considérant la très importante population étudiante habitant sur l'agglomération de Cergy-Pontoise, proposer un événement sur leur lieu de vie et de travail symbolise un certain renouveau dans le paysage événementiel, jusqu'ici limité aux _Afterworks_ sans composante culturelle forte. De plus, l'Université étant un lieu très bien desservi par les transports en commun (RER A, Transilien, Noctiliens, commande de VTC), les personnes intéressées par l'événement et résidant ou étudiant à Paris pourront facilement se rendre à nous événements.
 
 Nous songeons actuellement à utiliser trois sites : Les Chênes, Saint-Martin, Neuville. (Hirsch est également à l'étude) 
@@ -57,8 +59,11 @@ Nous travaillons avec la radio [Squaresound](http://www.squaresound.eu/) et leur
 
 ### Lieu et plan
 
-Le lieu choisi est le Hall du site de Saint-Martin : Fort de ses 500m², il saura accueilir dans de bonnes conditions les participants à l'événement. De plus, grâce à sa forme, il nous permet de placer de façon optimale les différents espaces de l'événement. IMAGE
-TODO
+![Hall Saint-Martin](https://github.com/bdeecho/Chaudiere/raw/master/Images/IMG_20161007_143030.jpg)
+
+Le lieu choisi est le Hall du site de Saint-Martin : Fort de ses 500m², il saura accueilir dans de bonnes conditions les participants à l'événement. De plus, grâce à sa forme, il nous permet de placer de façon optimale les différents espaces de l'événement.
+
+![Plan soirée](https://github.com/bdeecho/Chaudiere/raw/master/Images/plan%20ST%20Martin-hall%20d'entr%C3%A9e-annote%20(1).jpg)
 
 La queue se fera à l'extérieur de l'Université. A l'entrée, des vigiles fouilleront les participants à la recherche de produits interdits (dangereux ou illicites). L'état de la personne sera également évaluée, afin de ne pas faire rentrer de personnes en état d'ébriété manifeste. Ensuite, le vestiaire gratuit permettra aux participants de se décharger de leurs affaires. Des stands de prévention se trouveront en face de l'entrée, permettant la distribution de dispositifs contraceptifs, mais aussi d'éthylotests et de bouchons d'oreille. 
 Le bar se trouvera à droite de la piste de danse, et disposera de deux tireuses, permettant de mieux gérer l'affluence. L'eau et les boissons non alcoolisées seront gratuites, dans une démarche de prévention et de gestion des risques liés à l'alcool.
@@ -67,7 +72,7 @@ Un _food truck_ local sera potentiellement présent à l'extérieur afin de prop
 
 ### Prestataires
 
-Afin d'assurer une soirée se déroulant dans des conditions optimales, nous avons fait le choix de recourir à des prestatires s'occupant des points critiques de l'événement. TODO(C'est dire que l'alcool c'est un point critique ?)
+Afin d'assurer une soirée se déroulant dans des conditions optimales, nous avons fait le choix de recourir à des prestatires s'occupant des points critiques de l'événement. De cette façon, nous pouvons nous assurer de la qualité de l'événement et des prestations offertes aux participants, tout en déportant la charge de travail avant la soirée, plutôt que sur l'instant; nous permettant de gérer le projet dans sa globalité lors de l'événement.
 
 #### Bar
 
@@ -82,20 +87,38 @@ Ce prestataire nous fournit les boissons alcoolisées (bière) et non alcoolisé
 
 * Prestataire : Solutions-événement
 * Prestation : 
+
+En ce qui concerne la décoration lors de l’événement, nous souhaitons aménager les locaux de l'Université afin de proposer aux participants un cadre moins scolaire, tout en maîtrisant les coûts et risques de cette agrémentation.
+Dans cette optique, et pour limiter les problèmes logistiques liés au stockage, nous faisons appel à une entreprise départementale (Solution événements) qui nous permet d'agrémenter notre événement pour un coût maîtrisé.
+
 #### Sécurité
 
 * Prestataire : Kiloutou
 * Prestation : 
 
-TODO
+La sécurité durant notre événement est primordiale, que ce soit pour nos participants et le staff dans un premier temps, mais aussi pour les locaux et le matériel mis en place.
+
+Ainsi, nous mettrons en place des barrières de foule au niveau de l'entrée de l'événements afin d'éviter tout débordements. 
+À l'entrée, chaque participant est fouillé par un agent de sécurité, si un objet dangereux ou une substance illicites est trouvé, le participant se verra tout simplement refusé l'entrée. À l'accueil, les billets sont vérifiés.
+
+La mise en place du vestiaire permet aussi de sécuriser l'événement et les biens des participants en mettant en place un lieu sécurisé et innaccessible aux personnes ne faisant pas partie du staff ou les participants pourront déposer leurs affaires gratuitement. Ils se verront remettre un ticket pour récupérer leurs affaires.
+
+Un des points critiques est le fumoir. En effet, situé au niveau de l'entrée principale de St Martin ce lieu peut-être sujet aux tentatives d'intrusion dans l'événement. Afin de sécuriser ce lieu, des barrières de chantier hautes de 2m et un agent de sécurité situé à proximité sont prévus.
 
 #### Prévention
 
-* Prestataires :
+* Prestataires : Croix Rouge, LMDE, TechnoPlus
 * Prestation : 
 
+La prévention est un point essentiel de notre événement. Le fait que nous proposons de l'alcool nous oblige à réfléchir à des dispositifs de sécurisation et d'évaluation pour les personnes consommatrices, mais les drogues sont aussi un danger qu'il nous faut considérer.
 
-TODO
+Dans cette optique, et tout d'abord afin de limiter les états d'ébriété, nous procèderons à une sélection et une évaluation des participants à l'entrée : Tout état d'ébriété manifeste ou détention de produits stupéfiants conduira à un refus d'entrée.
+
+La prévention se fait aussi par la distribution gratuite de boissons non alcoolisées.
+
+Outre les risques alcoolique et stupéfiants, nous proposerons des bouchons d'oreille et des préservatifs.
+
+Nous sommes actuellement en discussion avec la Croix-Rouge et la LMDE afin d'obtenir des kits de soirée et une infrastructure à même de gérer des cas d'urgence.
 
 #### Sonorisation et lumières
 
@@ -113,7 +136,15 @@ De plus, Décisons Acoustiques ayant travaillé sur la sonorisation d'événemen
 
 ### Partenaires
 
-TODO
+### Camion du Vexin
+Nous avons démarché différents partenaires afin de proposer un événement de très grande qualité aux participants. Comme dit précédemment, nous apportons une importance à promouvoir les entrepreneurs locaux :  ainsi le Camion du Vexin sera présent lors de notre événement afin de proposer en début de soirée des repas aux participants et au staff comme il le fait tous les midi sur le site des Chênes.
+
+### SquareSound
+Un autre point important et le soutien apporté par Squaresound que ce soit sur le plan promotionnel, technique et artisitique. En effet, Squaresound serait prêt à partager avec nous leur savoir faire dans la mise en place de la retransmission de l'événement en ligne, mais aussi à organiser des interviews des artistes durant l'événement. De plus, ils nous permettent de profiter de leur carnet d'adresses afin de booker des artistes pour nos événements. Squaresound est proche du collectif LaRuche, qui organise divers événements sur l'Université.
+
+### Association(s)
+De nombreuses associations nous on montré leur soutien à propos de notre projet.
+Herodote et AFAC nous soutiennent sur le plan promotionnel étant donné leur attirance pour la culture de la musique électronique, mais d'autres associations comme Hazybot ou encore Phénix nous apportent un soutien logistique et technique afin de nous aider dans la conception de l'événement.
 
 ## Budget
 
@@ -178,15 +209,5 @@ Dans notre cas, étant une association ou un particulier, il nous faut émettre 
 
 ## Risques et enjeux
 
-TODO
-
-+: 
-S'imposer comme l'événement électro du coin
-Fédrérer
-Rayonner
-
--:
-
-Déficit important (4000€)
-Sécurité ?
-Boissons, drogues, volume sonore ?
+Les enjeux sont importants et multiples : Il n'y a, à notre connaissance, aucun événement similaire sur toute l'agglomération de Cergy-Pontoise. Des événements tels que la _Nuit de L'ESSEC_ pourraient apparaître comme compétiteurs, mais leur programmation vise des artistes connus et démontrent une volonté de "plaire au grand nombre". Notre objectif est de promouvoir une musique et des artistes montants, innovants, et amoureux de leur musique.
+Avec un événément aussi atypique, les retombées médiatiques risquent d'être nombreuses : beaucoup de groupes et d'associations se sont montrées très intéressées par l'événement, et n'hésiteront pas à relayer les informations et ainsi participer au rayonnement de l'événement.
