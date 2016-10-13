@@ -6,7 +6,7 @@
 
 ## Concept
 
-Les Cadences sont des soirées festives se déroulant sur les différents sites de l'Université de Cergy-Pontoise. Plusieurs artistes viennent se produire à tour de rôle au travers de DJ sets ou de Live, le tout étant retransmis en direct sur internet.
+Les Cadences sont des soirées festives axées sur la musique électronique se déroulant sur les différents sites de l'Université de Cergy-Pontoise. Plusieurs artistes viennent se produire à tour de rôle au travers de DJ sets ou de Live, le tout étant retransmis en direct sur internet.
 Un point important de ces événements est d'avoir une proximité entre artistes et public, à l'image du _Woodfloor_ du club parisien _Concrete_. IMAGE Cette proximité permet un réel échange entre l'artiste et son public, à la différence de l'agencement classique des boîtes de nuit, opposant DJ sur une scène surélevée, et public, situé à plusieurs mètres de cette même scène. L'artiste peut également se retrouver entouré par la foule, créant ainsi un lien encore plus fort. 
 En plus de cette disposition particulière, l'événement vise à être retransmis en direct sur internet. Ceci nous permet d'agrandir la portée de notre événement.
 
