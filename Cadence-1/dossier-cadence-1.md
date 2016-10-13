@@ -40,10 +40,15 @@ Les _Cadences_ se veulent donc être les soirées qui manquent actuellement dans
 
 ### Démarche
 
-TODO  
+_Cadence #1_ est notre première soirée festive axée sur la musique électronique. Cependant >Echo organise également depuis plusieurs années des LAN Parties (Versity) sur le site de Saint-Martin, et chaque événement a été un succès critique et organisationnel : Nous avons donc une connaissance des contraintes qu'impliquent ce genre d'événements.
+
+L'idée derrrière _Cadence #1_ est de "frapper fort", et de proposer un événement inoubliable, qui instaurera le ton de nos prochaines soirées. Afin de proposer un événement d'une qualité maximale, nous avons décidé de limiter le nombre de places et la tranche horaire, afin de pouvoir maîtriser au mieux tout les aspects et contraintes de la soirée.
+Etant donné le caractère nouveau de cet événement, il nous est en effet important d'obtenir un événement pilote qui soit le plus professionnel possible, démontrant ainsi la viabilité du projet sur la durée, et son inscription dans le plan culturel universitaire.
+
+
 ### Style et programmation
 
-_Cadence #1_ est une soirée entièrement dédiée à la house et à ses sous-genres généralistes (Deep House, Chicago House, etc.). Ce genre a été choisi car il peut satisfaire aussi bien les enthousiastes curieux que les passionnés : C'est une musique populaire, positive, synonyme de bonne humeur, et donc de bonne ambiance. TODO
+_Cadence #1_ est une soirée entièrement dédiée à la house et à ses sous-genres généralistes (Deep House, Chicago House, etc.). Ce genre a été choisi car il peut satisfaire aussi bien les enthousiastes curieux que les passionnés : C'est une musique populaire, positive, synonyme de bonne humeur, et donc de bonne ambiance. De plus, lors de nos repérages dans la communauté étudiante de l'Université, la majorité des personnes intéressées par l'événement se disaient attirés par cette culture House.
 
 La programmation se veut locale et régionnale, laissant la part belle aux artistes montants. 
 Nous travaillons avec la radio [Squaresound](http://www.squaresound.eu/) et leurs artistes, ainsi que d'autres labels parisiens, tels que [Pont Neuf Records](https://www.facebook.com/pontneufrecords/). Nous sommes également en contact avec des groupes de _social digging*_ (voir [La Chinerie](http://www.sweetlife.fr/2015/05/05/la-chinerie-communaute-social-digging/), par exemple), qui se sont montrés très intéressés par le projet, et enclins à y participer.
@@ -55,6 +60,10 @@ Nous travaillons avec la radio [Squaresound](http://www.squaresound.eu/) et leur
 Le lieu choisi est le Hall du site de Saint-Martin : Fort de ses 500m², il saura accueilir dans de bonnes conditions les participants à l'événement. De plus, grâce à sa forme, il nous permet de placer de façon optimale les différents espaces de l'événement. IMAGE
 TODO
 
+La queue se fera à l'extérieur de l'Université. A l'entrée, des vigiles fouilleront les participants à la recherche de produits interdits (dangereux ou illicites). L'état de la personne sera également évaluée, afin de ne pas faire rentrer de personnes en état d'ébriété manifeste. Ensuite, le vestiaire gratuit permettra aux participants de se décharger de leurs affaires. Des stands de prévention se trouveront en face de l'entrée, permettant la distribution de dispositifs contraceptifs, mais aussi d'éthylotests et de bouchons d'oreille. 
+Le bar se trouvera à droite de la piste de danse, et disposera de deux tireuses, permettant de mieux gérer l'affluence. L'eau et les boissons non alcoolisées seront gratuites, dans une démarche de prévention et de gestion des risques liés à l'alcool.
+Le fumoir, placé à l'extérieur du bâtiment, permettera également aux participants de s'aérer. Cette zone sera protégée par des barrières de chantier, et un vigile sera placé à l'extérieur, pour éviter tout débordement, comportement à risque ou intrusion de personnes étrangères à l'événement.
+Un _food truck_ local sera potentiellement présent à l'extérieur afin de proposer un point de nourriture (_encore en négociations_).
 
 ### Prestataires
 
