@@ -218,5 +218,19 @@ Dans notre cas, étant une association ou un particulier, il nous faut émettre 
 
 ## Risques et enjeux
 
+Nous sommes confrontés à plusieurs risques.
+
+### Risque personnes
+L'alcool peut mener à des débordements. Pour cette principale raison évidente, et même si notre statut nous ne le permet pas, nous avons décidé de ne vendre aucun alcool fort, mais seulement de la bière à des quantités limitées (3 pintes par personne maximum dans le stock). En limitant le débit d'alcool par personne à 1.5L de bière et en prenant en compte que notre événement dure 6h, chaque participant sortira de l'événement avec un taux d'alcool en dessous du taux légal.
+Un autre point à surveiller sont les drogues, mais il a été prévu dans la sécurité de refuser toute personne se présentant avec de la drogue sur lui. Nous sommes conscients qu'il nous sera impossible d'assurer à 100% qu'aucune drogue ne rentrera sur l'événement, c'est pourquoi des agents surveilleront les lieux propices à la consommation de drogues (agent situé au niveau des toilettes) et que toute personne ayant un comportement suspect sera contrôlée et dirigée vers les services de santé et de prévention.
+Tout débordement physique entre deux personnes aménera à l'expulsion pure et simple des personnes concernées avec un intervalle différent afin d'éviter de déporter le réglement de compte en dehors de l'événement.
+
+### Risque matériel
+
+Le matériel loué, mis à part le matériel d'aménagement, est manipulé par le prestataire concerné (Barnum et Décisions Acoustiques) : A aucun moment le staff ou le public n'aura accès à ce matériel, mis à part le staff qui s'occupera des tireuses.
+Tout contrevenant se vera expulsé de l'événement, après son identitée relevée, pour d'éventuels dégâts constatés.
+Le matériel sonore sera installé et manipulé par des ingénieurs son et lumière.
+
+### Enjeux
 Les enjeux sont importants et multiples : Il n'y a, à notre connaissance, aucun événement similaire sur toute l'agglomération de Cergy-Pontoise. Des événements tels que la _Nuit de L'ESSEC_ pourraient apparaître comme compétiteurs, mais leur programmation vise des artistes connus et démontrent une volonté de "plaire au grand nombre". Notre objectif est de promouvoir une musique et des artistes montants, innovants, et amoureux de leur musique.
 Avec un événément aussi atypique, les retombées médiatiques risquent d'être nombreuses : beaucoup de groupes et d'associations se sont montrées très intéressées par l'événement, et n'hésiteront pas à relayer les informations et ainsi participer au rayonnement de l'événement.
