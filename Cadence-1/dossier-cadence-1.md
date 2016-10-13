@@ -8,7 +8,7 @@
 
 Les Cadences sont des soirées festives se déroulant sur les différents sites de l'Université de Cergy-Pontoise. Plusieurs artistes viennent se produire à tour de rôle au travers de DJ sets ou de Live, le tout étant retransmis en direct sur internet.
 Un point important de ces événements est d'avoir une proximité entre artistes et public, à l'image du _Woodfloor_ du club parisien _Concrete_. IMAGE Cette proximité permet un réel échange entre l'artiste et son public, à la différence de l'agencement classique des boîtes de nuit, opposant DJ sur une scène surélevée, et public, situé à plusieurs mètres de cette même scène. L'artiste peut également se retrouver entouré par la foule, créant ainsi un lien encore plus fort. 
-En plus de cette disposition particulière, l'événement vise à être retransmis en direct sur internet. L'intérêt est de pouvoir faire profiter plus de monde, et de donner une dimension technologique à l'événement. TODO
+En plus de cette disposition particulière, l'événement vise à être retransmis en direct sur internet. Ceci nous permet d'agrandir la portée de notre événement.
 
 Cette tendance de retransmission en direct est très populaire, comme peuvent en témoigner les événements _Boiler Room_, soirées mondialement connues où un artiste se produit pour un nombre restreint de personnes physiques, mais pour un très grand nombre d'internautes. IMAGE
 
@@ -18,7 +18,7 @@ Nous songeons actuellement à utiliser trois sites : Les Chênes, Saint-Martin, 
 
 ## Inscription dans notre projet
 
-Les Cadences s'inscrivent dans un projet, plus général, de l'association >Echo. Dans notre démarche de promouvoir la musique électronique sur le campus, nous proposons des événements de nature différente afin d'accompagner _crescendo_ les étudiants dans leur découverte : Tout d'abord en proposant des ateliers permettant la découverte et l'entraînement au DJing et à la production, puis en organisant des apéritifs où ceux-ci peuvent s'essayer face à un public plus large, et enfin aux _Cadences_, où ils peuvent profiter d'une soirée centrée sur la musique qu'ils aiment, composée d'artistes reconnus qui exprimeront leur savoir faire et leur vision de la musique électronique. TODO
+Les Cadences s'inscrivent dans un projet, plus général, de l'association >Echo. Dans notre démarche de promouvoir la musique électronique sur le campus, nous proposons des événements de nature différente afin d'accompagner _crescendo_ les étudiants dans leur découverte : Tout d'abord en proposant des ateliers permettant la découverte et l'entraînement au DJing et à la production, puis en organisant des apéritifs où ceux-ci peuvent s'essayer face à un public plus large, et enfin aux _Cadences_, où ils peuvent profiter d'une soirée centrée sur la musique qu'ils aiment, composée d'artistes reconnus qui exprimeront leur savoir faire et leur vision de la musique électronique.
 
 ## Inscription dans le projet de la vie culturelle universitaire
 
@@ -36,8 +36,7 @@ Les _Cadences_ se veulent donc être les soirées qui manquent actuellement dans
 * Lieu : Hall du site de Saint-Martin
 * Places : 300 (250 public, 50 staff + sécurité + liste)
 * Artistes : 3
-* PRIX TODO
-TODO
+* Tarif : 7€(Adhérent)/10€(Non-adhérent)
 
 ### Démarche
 
@@ -47,8 +46,9 @@ TODO
 _Cadence #1_ est une soirée entièrement dédiée à la house et à ses sous-genres généralistes (Deep House, Chicago House, etc.). Ce genre a été choisi car il peut satisfaire aussi bien les enthousiastes curieux que les passionnés : C'est une musique populaire, positive, synonyme de bonne humeur, et donc de bonne ambiance. TODO
 
 La programmation se veut locale et régionnale, laissant la part belle aux artistes montants. 
-Nous travaillons avec la radio [Squaresound](http://www.squaresound.eu/) et leurs artistes, ainsi que d'autres labels parisiens, tels que [Pont Neuf Records](https://www.facebook.com/pontneufrecords/). Nous sommes également en contact avec des groupes de _social digging_ (voir [La Chinerie](http://www.sweetlife.fr/2015/05/05/la-chinerie-communaute-social-digging/), par exemple), qui se sont montrés très intéressés par le projet, et enclins à y participer. TODO
+Nous travaillons avec la radio [Squaresound](http://www.squaresound.eu/) et leurs artistes, ainsi que d'autres labels parisiens, tels que [Pont Neuf Records](https://www.facebook.com/pontneufrecords/). Nous sommes également en contact avec des groupes de _social digging*_ (voir [La Chinerie](http://www.sweetlife.fr/2015/05/05/la-chinerie-communaute-social-digging/), par exemple), qui se sont montrés très intéressés par le projet, et enclins à y participer.
 
+\**Le digging peut être vu comme un état d'esprit de recherche permanente de nouvelles sonorités, d'artistes peu connus ou oubliés, et se prête donc parfaitement aux Cadences, qui proposent de faire voyager l'oreille de leurs participants.
 
 ### Lieu et plan
 
