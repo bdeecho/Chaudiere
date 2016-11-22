@@ -164,12 +164,15 @@ _La partie Caution détaille notamment le montant Décisions Acoustiques._
 
 | Prestataire            | Devis    | Accompte | Caution | TOTAL    |
 |------------------------|----------|----------|---------|----------|
-| Barnum                 | 3295.21  | 988.53   | 1000    | 4295.21  |
+| Communication          | 176,27   |          |         | 176,27   |
 | Solutions-événement    | 390,53   | 117,16   |         | 390,53   |
+| Barnum                 | 3295,21  | 988.53   | 1000    | 4295,21  |
+| Décision-acoustiques   | 1510,0   |          |         | 1512,0   |
 | Kiloutou               | 314,6    |          |         | 314,6    |
-| Décisions Acoustiques  | 3959,04  |          |         | 3959,04  |
-| Prévention             |          |          |         |          |
-| TOTAL                  | 7959,38  | 1105.69  | 1000    | 8959,38  |
+| Réfléchi-son           | 3959,04  |          |         | 3959,04  |
+| Sécurité & gardiennage | 3300,0   |          |         | 3300,0   |
+| Artistes               | 1500,0   |          |         | 1500,0   |
+| TOTAL                  | 14445,65 | 1105.69  | 1000    | TODO     |
 
 ## Tarifs
 
