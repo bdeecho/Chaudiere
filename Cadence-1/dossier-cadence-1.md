@@ -34,11 +34,11 @@ Les _Cadences_ se veulent donc être les soirées qui manquent actuellement dans
 
 ### Informations pratiques
 
-* Date : 16 Décembre 2016
+* Date : 10 Février 2017
 * Horaires public : 20h-02h
-* Horaires staff (installation, désinstallation, nettoyage) : 19h-03h
+* Horaires staff (installation, désinstallation, nettoyage) : 19h-06h
 * Lieu : Hall du site de Saint-Martin
-* Places : 300 (250 public, 50 staff + sécurité + liste)
+* Places : 340 (+ ~25 staff et sécurité)
 * Artistes : 3
 * Tarif : 7€(Adhérent)/10€(Non-adhérent)
 
@@ -82,16 +82,16 @@ Afin d'assurer une soirée se déroulant dans des conditions optimales, nous avo
 * Prestation : Location, livraison, installation, surveillance
 
 
-Ce prestataire nous fournit les boissons alcoolisées (bière) et non alcoolisées (soda et eau), ainsi que le matériel de tirage, ainsi que des bacs à glaçons. L'installation du matériel est comprise, ainsi que la vérification de fonctionnement par un technicien au cours de la soirée.
+Ce prestataire nous fournit les boissons alcoolisées (bière) et non alcoolisées (soda), le matériel de tirage, ainsi que des bacs à glaçons. L'installation du matériel est comprise, ainsi que la vérification de fonctionnement par un technicien au cours de la soirée.
+La livraison et la récupération du matériel, des boissons consommées (fûts) et non consommées sont assuré dans la prestation. En ce qui concerne les produits non consommées ils sont remboursées à hauteur de 90 à 100% suivant les types de produits.
 
-
-#### Agrémentation
-
+#### Vestiaire
+#### TODO
 * Prestataire : Solutions-événement
 * Prestation : 
 
-En ce qui concerne la décoration lors de l’événement, nous souhaitons aménager les locaux de l'Université afin de proposer aux participants un cadre moins scolaire, tout en maîtrisant les coûts et risques de cette agrémentation.
-Dans cette optique, et pour limiter les problèmes logistiques liés au stockage, nous faisons appel à une entreprise départementale (Solution événements) qui nous permet d'agrémenter notre événement pour un coût maîtrisé.
+En ce qui concerne le vestiaire lors de l’événement, nous souhaitons proposer une solution propre et sécurisée aux participants à l'aide de matériel dédié et de l'utilisation d'un système de ticket.
+Dans cette optique, et pour limiter les problèmes logistiques liés au stockage, nous faisons appel à une entreprise départementale (Solution événements) qui nous permet de palier à ce sujet lors de notre événement avec un coût maîtrisé.
 
 #### Sécurité
 
@@ -101,15 +101,15 @@ Dans cette optique, et pour limiter les problèmes logistiques liés au stockage
 La sécurité durant notre événement est primordiale, que ce soit pour nos participants et le staff dans un premier temps, mais aussi pour les locaux et le matériel mis en place.
 
 Ainsi, nous mettrons en place des barrières de foule au niveau de l'entrée de l'événements afin d'éviter tout débordements. 
-À l'entrée, chaque participant est fouillé par un agent de sécurité, si un objet dangereux ou une substance illicites est trouvé, le participant se verra tout simplement refusé l'entrée. À l'accueil, les billets sont vérifiés.
+À l'entrée, chaque participant est fouillé visuellement par un agent de sécurité, si un objet dangereux ou une substance illicites est trouvé, le participant se verra tout simplement refusé l'entrée. À l'accueil, les billets sont vérifiés.
 
 La mise en place du vestiaire permet aussi de sécuriser l'événement et les biens des participants en mettant en place un lieu sécurisé et innaccessible aux personnes ne faisant pas partie du staff ou les participants pourront déposer leurs affaires gratuitement. Ils se verront remettre un ticket pour récupérer leurs affaires.
 
-Un des points critiques est le fumoir. En effet, situé au niveau de l'entrée principale de St Martin ce lieu peut-être sujet aux tentatives d'intrusion dans l'événement. Afin de sécuriser ce lieu, des barrières de chantier hautes de 2m et un agent de sécurité situé à proximité sont prévus.
+Un des points critiques est le fumoir/food-truck. En effet, situé au niveau de l'entrée principale de St Martin ce lieu peut-être sujet aux tentatives d'intrusion dans l'événement. Afin de sécuriser ce lieu, des barrières de chantier hautes de 2m et un agent de sécurité situé à proximité sont prévus.
 
 #### Prévention
 
-* Prestataires : Croix Rouge, LMDE, TechnoPlus
+* Prestataires : Croix Rouge, avenir-santé
 * Prestation : 
 
 La prévention est un point essentiel de notre événement. Le fait que nous proposons de l'alcool nous oblige à réfléchir à des dispositifs de sécurisation et d'évaluation pour les personnes consommatrices, mais les drogues sont aussi un danger qu'il nous faut considérer.
