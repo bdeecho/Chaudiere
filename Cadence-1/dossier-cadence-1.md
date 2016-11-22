@@ -116,11 +116,8 @@ La prévention est un point essentiel de notre événement. Le fait que nous pro
 
 Dans cette optique, et tout d'abord afin de limiter les états d'ébriété, nous procèderons à une sélection et une évaluation des participants à l'entrée : Tout état d'ébriété manifeste ou détention de produits stupéfiants conduira à un refus d'entrée.
 
-La prévention se fait aussi par la distribution gratuite de boissons non alcoolisées.
+La prévention se fait aussi par la distribution gratuite de boissons non alcoolisées. De plus l'association avenir-santé sera présente sur place et mettra en place un stand afin de discuter avec les participants et distribué des alcootests, des bouchons d'oreilles, des préservatifs ainsi que d'autres outils de prévention, le tout gratuitement.
 
-Outre les risques alcoolique et stupéfiants, nous proposerons des bouchons d'oreille et des préservatifs.
-
-Nous sommes actuellement en discussion avec la Croix-Rouge et la LMDE afin d'obtenir des kits de soirée et une infrastructure à même de gérer des cas d'urgence.
 
 #### Sonorisation et lumières
 
@@ -168,18 +165,18 @@ _La partie Caution détaille notamment le montant Décisions Acoustiques._
 | Prestataire            | Devis    | Accompte | Caution | TOTAL    |
 |------------------------|----------|----------|---------|----------|
 | Barnum                 | 3295.21  | 988.53   | 1000    | 4295.21  |
-| Solutions-événement    | 1402.44  | 420.73   |         | 1402.44  |
-| Kiloutou               |          |          |         |          |
-| Décisions Acoustiques  | 5 321.26 |          | 79818.9 | 85140.16 |
+| Solutions-événement    | 390,53   | 117,16   |         | 390,53   |
+| Kiloutou               | 314,6    |          |         | 314,6    |
+| Décisions Acoustiques  | 3959,04  |          |         | 3959,04  |
 | Prévention             |          |          |         |          |
-| TOTAL                  | 10018.91 | 1409.26  | 80818.9 | 90837.81 |
+| TOTAL                  | 7959,38  | 1105.69  | 1000    | 8959,38  |
 
 ## Tarifs
 
 | Produit        | Prix adhérent | Prix non adhérent |
 |----------------|---------------|-------------------|
 | Demi Heineken  | 3             | 3                 |
-| Pinte Heineken | 4             | 4                 |
+| Pinte Heineken | 5             | 5                 |
 | Entrées        | 7             | 10                |
 | Soft           | 0             | 0                 |
 
@@ -208,13 +205,7 @@ _La partie Caution détaille notamment le montant Décisions Acoustiques._
 
 ### Cautions
 
-Le matériel utilisé par Décisions Acoustiques est un matériel de pointe extrêmement coûteux.
-Par ce fait, la caution résultant de l'utilisation de ce matériel est très élevée, mais reste dérisoire à côté du coût réel du matériel. 
 
-En détail, Décisions Acoustiques fait appel à un prestataire de location, qui requiert une provision de la part de l'organisme organisant l'événement, c'est à dire >Echo.
-
-Si l'organisme est une entreprise, le montant de la caution est nul, et l'entreprise doit s'acquitter d'un accompte de 50% la valeur de la commande.
-Dans notre cas, étant une association ou un particulier, il nous faut émettre un chèque de caution égal à 15 fois le montant de la location, ce qui explique l'important montant de la caution.
 
 ## Risques et enjeux
 
