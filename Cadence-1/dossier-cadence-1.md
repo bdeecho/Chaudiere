@@ -37,10 +37,10 @@ Les _Cadences_ se veulent donc être les soirées qui manquent actuellement dans
 * Date : 10 Février 2017
 * Horaires public : 20h-02h
 * Horaires staff (installation, désinstallation, nettoyage) : 19h-06h
-* Lieu : Hall du site de Saint-Martin
-* Places : 340 (+ ~25 staff et sécurité)
+* Lieu : Hall ou restaurant universitaire du site de Saint-Martin
+* Places : 340 ou 450 (+ ~25 staff et sécurité)
 * Artistes : 3
-* Tarif : 7€(Adhérent)/10€(Non-adhérent)
+* Tarif : 7€(Adhérent)/10€ à 12€(Non-adhérent)
 
 ### Démarche
 
@@ -61,6 +61,7 @@ Nous travaillons avec la radio [Squaresound](http://www.squaresound.eu/) et leur
 
 ### Lieu et plan
 
+#### Hall Saint-Martin
 ![Hall Saint-Martin](https://github.com/bdeecho/Chaudiere/raw/master/Images/IMG_20161007_143030.jpg)
 
 Le lieu choisi est le Hall du site de Saint-Martin : Fort de ses 500m², il saura accueilir dans de bonnes conditions les participants à l'événement. De plus, grâce à sa forme, il nous permet de placer de façon optimale les différents espaces de l'événement.
@@ -71,6 +72,9 @@ La queue se fera à l'extérieur de l'Université. A l'entrée, des vigiles foui
 Le bar se trouvera à droite de la piste de danse, et disposera de deux tireuses, permettant de mieux gérer l'affluence. L'eau et les boissons non alcoolisées seront gratuites, dans une démarche de prévention et de gestion des risques liés à l'alcool.
 Le fumoir, placé à l'extérieur du bâtiment, permettera également aux participants de s'aérer. Cette zone sera protégée par des barrières de chantier, et un vigile sera placé à l'extérieur, pour éviter tout débordement, comportement à risque ou intrusion de personnes étrangères à l'événement.
 Un _food truck_ local sera potentiellement présent à l'extérieur afin de proposer un point de nourriture (_encore en négociations_).
+
+#### Restaurant Universitaire Saint-Martin
+TODO
 
 ### Prestataires
 
@@ -86,7 +90,7 @@ Ce prestataire nous fournit les boissons alcoolisées (bière) et non alcoolisé
 La livraison et la récupération du matériel, des boissons consommées (fûts) et non consommées sont assuré dans la prestation. En ce qui concerne les produits non consommées ils sont remboursées à hauteur de 90 à 100% suivant les types de produits.
 
 #### Vestiaire
-#### TODO
+
 * Prestataire : Solutions-événement
 * Prestation : 
 
@@ -134,7 +138,7 @@ Il va de soi que c'est le prestataire qui interagira le plus avec les services d
 
 ![StLaz1](http://s1.lemde.fr/image/2016/09/05/534x0/4992411_6_5747_2016-09-05-60fa42c-27592-1tzwkh9_6aac4c8422690e3b41574565f57b47a2.jpg)
 
-De plus, Décisons Acoustiques ayant travaillé sur la sonorisation d'événements de grande ampleur dans des lieux insolites (Hors Série #1 à la Gare Saint-Lazare), nous en avons conclu, après divers échanges téléphoniques, que c'était le prestataire le plus à même de comprendre le projet et de proposer un service optimal et qualitatif.
+De plus, Décisons Acoustiques ayant travaillé sur la sonorisation d'événements de grande ampleur dans des lieux insolites (Hors Série #1 à la Gare Saint-Lazare, Weather Festival au Bourget), nous en avons conclu, après divers échanges téléphoniques, que c'était le prestataire le plus à même de comprendre le projet et de proposer un service optimal et qualitatif.
 
 ![StLaz2](http://s2.lemde.fr/image/2016/09/05/534x0/4992419_6_a456_2016-09-05-11d8c20-20722-jpmda4_9651759de02d9a28ea12cc1d0cb0885b.jpg)
 
