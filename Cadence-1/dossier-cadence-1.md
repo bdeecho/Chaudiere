@@ -38,9 +38,9 @@ Les _Cadences_ se veulent donc être les soirées qui manquent actuellement dans
 * Horaires public : 20h-02h
 * Horaires staff (installation, désinstallation, nettoyage) : 19h-06h
 * Lieu : Hall ou restaurant universitaire du site de Saint-Martin
-* Places : 340 ou 450 (+ ~25 staff et sécurité)
+* Places : 340 à 450 (+ ~25 staff et sécurité)
 * Artistes : 3
-* Tarif : 7€(Adhérent)/10€ à 12€(Non-adhérent)
+* Tarifs : 7€(Adhérent)/10€ à 12€(Non-adhérent)
 
 ### Démarche
 
@@ -64,7 +64,7 @@ Nous travaillons avec la radio [Squaresound](http://www.squaresound.eu/) et leur
 #### Hall Saint-Martin
 ![Hall Saint-Martin](https://github.com/bdeecho/Chaudiere/raw/master/Images/IMG_20161007_143030.jpg)
 
-Le lieu choisi est le Hall du site de Saint-Martin : Fort de ses 500m², il saura accueilir dans de bonnes conditions les participants à l'événement. De plus, grâce à sa forme, il nous permet de placer de façon optimale les différents espaces de l'événement.
+Le premier lieu choisi est le Hall du site de Saint-Martin : Fort de ses 500m², il saura accueilir dans de bonnes conditions les participants à l'événement. De plus, grâce à sa forme, il nous permet de placer de façon optimale les différents espaces de l'événement.
 
 ![Plan soirée](https://github.com/bdeecho/Chaudiere/raw/master/Images/plan%20ST%20Martin-hall%20d'entr%C3%A9e-annote%20(1).jpg)
 
@@ -76,6 +76,9 @@ Un _food truck_ local sera potentiellement présent à l'extérieur afin de prop
 #### Restaurant Universitaire Saint-Martin
 TODO
 
+![RU Saint-Martin](https://github.com/bdeecho/Chaudiere/raw/master/Images/RU_StMartin.jpg)
+
+![Plan RU Saint-Martin](https://github.com/bdeecho/Chaudiere/raw/master/Images/Plan%20Cadence%20%231%20RU%201.jpg)
 ### Prestataires
 
 Afin d'assurer une soirée se déroulant dans des conditions optimales, nous avons fait le choix de recourir à des prestatires s'occupant des points critiques de l'événement. De cette façon, nous pouvons nous assurer de la qualité de l'événement et des prestations offertes aux participants, tout en déportant la charge de travail avant la soirée, plutôt que sur l'instant; nous permettant de gérer le projet dans sa globalité lors de l'événement.
@@ -125,7 +128,7 @@ La prévention se fait aussi par la distribution gratuite de boissons non alcool
 
 #### Sonorisation et lumières
 
-* Prestataire : [Décisions Acoustiques](http://www.decisions-acoustiques.fr/) 
+* Prestataire : [Décisions Acoustiques](http://www.decisions-acoustiques.fr/), [réfléchi'son](http://www.reflechi-son.fr/)
 * Prestation : Location, livraison, installation, réglages
 
 Cette section est, avec la section prévention de l'événement, la plus importante. 
@@ -161,6 +164,12 @@ Herodote et AFAC nous soutiennent sur le plan promotionnel étant donné leur at
 Le budget de l'événement est complexe : de nombreux prestataires entrent en jeu, ce qui signifie que divers accomptes et cautions sont à inclure dans nos calculs.
 Il est important pour nous de proposer un événement qui marque : L'effectif est certes réduit, mais la soirée doit prouver que _Cadence_ est un projet qui répond à un besoin, qui s'inscrit dans la continuité des projets de l'association aussi bien que de la vie culturelle de l'Université, et qui montre une image certes différente, mais non moins professionnelle, de l'Université.
 
+### SACEM
+
+La **Société des auteurs, compositeurs et éditeurs de musique (Sacem)** est une société de gestion des droits d'auteur.
+
+Société privée à but non lucratif, contrôlée par la Commission de contrôle, émanation de la Cour des Comptes, les administrations fiscales et sociales, un commissaire aux comptes et ses sociétaires. Créée le 28 février 1851, **elle a pour mission principale d'assurer la collecte et la répartition des droits dus aux auteurs, compositeurs et éditeurs de musique qui sont ses membres**. Si certaines formules alternatives, comme la musique libre, se sont peu à peu développées, la Sacem représente l'immense majorité du répertoire musical, avec 153 000 sociétaires et plus de 90 millions d'œuvres représentées.
+
 
 ### Dépenses
 _Vous retrouverez les devis joints au dossier, où figure le détail de chaque prestataire._
@@ -189,12 +198,16 @@ _La partie Caution détaille notamment le montant Décisions Acoustiques._
 
 ## Recettes
 
+### 340 Personnes
+TODO
 | Source  | Moyenne | Maximum |
 |---------|---------|---------|
 | Bar     | 3600    | 4200    |
 | Entrées | 2425    | 3000    |
 | TOTAL   | 6025    | 7200    | 
 
+### 450 Personnes
+TODO
 
 ## Bilan prévisionnel
 
