@@ -95,7 +95,7 @@ Afin d'assurer une soirée se déroulant dans des conditions optimales, nous avo
 
 #### Bar
 
-* Prestataire : Barnum
+* Prestataire : [Barnum](http://www.barnum.fr/)
 * Prestation : Location, livraison, installation, surveillance
 
 
@@ -104,7 +104,7 @@ La livraison et la récupération du matériel, des boissons consommées (fûts)
 
 #### Vestiaire
 
-* Prestataire : Solutions-événement
+* Prestataire : [Solutions-événement](http://www.solutions-evenements.fr/)
 * Prestation : 
 
 En ce qui concerne le vestiaire lors de l’événement, nous souhaitons proposer une solution propre et sécurisée aux participants à l'aide de matériel dédié et de l'utilisation d'un système de ticket.
@@ -112,7 +112,7 @@ Dans cette optique, et pour limiter les problèmes logistiques liés au stockage
 
 #### Sécurité (balisage)
 
-* Prestataire : Kiloutou
+* Prestataire : [Kiloutou](http://www.loca-reception.fr/)
 * Prestation : 
 
 La sécurité durant notre événement est primordiale, que ce soit pour nos participants et le staff dans un premier temps, mais aussi pour les locaux et le matériel mis en place.
@@ -155,9 +155,13 @@ De plus, Décisons Acoustiques ayant travaillé sur la sonorisation d'événemen
 
 ![StLaz2](http://s2.lemde.fr/image/2016/09/05/534x0/4992419_6_a456_2016-09-05-11d8c20-20722-jpmda4_9651759de02d9a28ea12cc1d0cb0885b.jpg)
 
+
+TODO réfléchi'son
+
 ### Partenaires
 
 ### Camion du Vexin
+
 Nous avons démarché différents partenaires afin de proposer un événement de très grande qualité aux participants. Comme dit précédemment, nous apportons une importance à promouvoir les entrepreneurs locaux :  ainsi le Camion du Vexin sera présent lors de notre événement afin de proposer en début de soirée des repas aux participants et au staff comme il le fait tous les midi sur le site des Chênes.
 
 ### SquareSound
@@ -166,6 +170,7 @@ Nous avons démarché différents partenaires afin de proposer un événement de
 Un autre point important et le soutien apporté par Squaresound que ce soit sur le plan promotionnel, technique et artisitique. En effet, Squaresound serait prêt à partager avec nous leur savoir faire dans la mise en place de la retransmission de l'événement en ligne, mais aussi à organiser des interviews des artistes durant l'événement. De plus, ils nous permettent de profiter de leur carnet d'adresses afin de booker des artistes pour nos événements. Squaresound est proche du collectif LaRuche, qui organise divers événements sur l'Université.
 
 ### Association(s)
+
 De nombreuses associations nous on montré leur soutien à propos de notre projet.
 Herodote et AFAC nous soutiennent sur le plan promotionnel étant donné leur attirance pour la culture de la musique électronique, mais d'autres associations comme Hazybot ou encore Phénix nous apportent un soutien logistique et technique afin de nous aider dans la conception de l'événement.
 
@@ -183,8 +188,8 @@ Société privée à but non lucratif, contrôlée par la Commission de contrôl
 Afin d'avoir le droit de diffusé de la musique durant notre événement, nous devons signer un contrat et payer une redevance à la SACEM. Le tarif est un pourcentage se basant sur les dépenses de l'événement, 11% dans le cas de musique vivante.
 
 ### Dépenses
+
 _Vous retrouverez les devis joints au dossier, où figure le détail de chaque prestataire._
-_La partie Caution détaille notamment le montant Décisions Acoustiques._
 
 #### Pire des cas
 
