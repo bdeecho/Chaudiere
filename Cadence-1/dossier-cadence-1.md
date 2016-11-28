@@ -44,9 +44,9 @@ Les _Cadences_ se veulent donc être les soirées qui manquent actuellement dans
 
 ### Démarche
 
-_Cadence #1_ est notre première soirée festive axée sur la musique électronique. Cependant >Echo organise également depuis plusieurs années des LAN Parties (Versity) sur le site de Saint-Martin, et chaque événement a été un succès critique et organisationnel : Nous avons donc une connaissance des contraintes qu'impliquent ce genre d'événements.
+_Cadence #1_ est notre première soirée festive axée sur la musique électronique. Cependant >Echo organise également depuis plusieurs années des LAN Parties (Versity) sur le site de Saint-Martin, et chaque événement a été un succès critique et organisationnel : Nous avons donc une connaissance des contraintes qu'implique ce genre d'événements.
 
-L'idée derrrière _Cadence #1_ est de "frapper fort", et de proposer un événement inoubliable, qui instaurera le ton de nos prochaines soirées. Afin de proposer un événement d'une qualité maximale, nous avons décidé de limiter le nombre de places et la tranche horaire, afin de pouvoir maîtriser au mieux tout les aspects et contraintes de la soirée.
+L'idée derrrière _Cadence #1_ est de "frapper fort", et de proposer un événement inoubliable, qui instaurera le ton de nos prochaines soirées. Afin de proposer un événement d'une qualité maximale, nous avons décidé de limiter le nombre de places et la tranche horaire, afin de pouvoir maîtriser au mieux tous les aspects et contraintes de la soirée.
 Etant donné le caractère nouveau de cet événement, il nous est en effet important d'obtenir un événement pilote qui soit le plus professionnel possible, démontrant ainsi la viabilité du projet sur la durée, et son inscription dans le plan culturel universitaire.
 
 
