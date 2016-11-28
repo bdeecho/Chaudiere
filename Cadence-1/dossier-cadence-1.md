@@ -38,7 +38,7 @@ Les _Cadences_ se veulent donc être les soirées qui manquent actuellement dans
 * Horaires public : 20h-02h
 * Horaires staff (installation, désinstallation, nettoyage) : 19h-06h
 * Lieu : Hall ou restaurant universitaire du site de Saint-Martin
-* Places : 340 à 450 (+ ~25 staff et sécurité)
+* Places : 340 à 430 (+ ~30 staff et sécurité)
 * Artistes : 3
 * Tarifs : 7€(Adhérent)/10€ à 12€(Non-adhérent)
 
@@ -80,6 +80,7 @@ Un _food truck_ local sera potentiellement présent à l'extérieur afin de prop
 Le second lieu choisis est le restaurant universitaire du site de Saint-Martin. Cette grande salle de presque 500m² est parfaitement adapté pour accueuillir ce genre d'événement. En revanche, il ne bénéficie pas du rayonnement du Hall vis à vis de la vie universitaire.
 
 ![Plan RU Saint-Martin](https://github.com/bdeecho/Chaudiere/raw/master/Images/Plan%20Cadence%20%231%20RU%201.jpg)
+
 TODO
 
 ### Prestataires
@@ -212,7 +213,7 @@ Le pire des cas contient des dépenses non obligatoire ou encore en discussion c
 | SACEM*                 | 1555,76  |          |         | 1555,76  |
 | TOTAL                  | 14699,05 | 1105.69  | 1000    | 15699,05 |
 
-_*Les prix peuvent évoluer en fonction du nombre de personnes_
+_*Les prix peuvent évoluer en fonction du nombre de personnes et du lieu_
 
 ## Tarifs
 
@@ -226,23 +227,25 @@ _*Les prix peuvent évoluer en fonction du nombre de personnes_
 ## Recettes
 
 ### 340 Personnes
-TODO
-| Source  | Moyenne | Maximum |
-|---------|---------|---------|
-| Bar     | 3600    | 4200    |
-| Entrées | 2425    | 3000    |
-| TOTAL   | 6025    | 7200    | 
 
-### 450 Personnes
-TODO
-| Source  | Moyenne | Maximum |
+| Source  | Moyenne*| Maximum |
 |---------|---------|---------|
-| Bar     | 3600    | 4200    |
-| Entrées | 2425    | 3000    |
-| TOTAL   | 6025    | 7200    | 
+| Bar     | 3962.5  | 5100    |
+| Entrées | 3340    | 3400    |
+| TOTAL   | 7302.5  | 8500    | 
+
+### 430 Personnes
+
+| Source  | Moyenne*| Maximum |
+|---------|---------|---------|
+| Bar     | 4675    | 6000    |
+| Entrées | 3940    | 4000    |
+| TOTAL   | 8615    | 10000   | 
+
+_*La moyenne correspond à 2 pintes par personnes pour le bar, et 20 adhérents et tout le reste tout public pour les entrées._
 
 ## Bilan prévisionnel
-
+TODO
 | Source                     | Moyenne  | Maximum  |
 |----------------------------|----------|----------|
 | Recette Bar                | 3600     | 4200     |
