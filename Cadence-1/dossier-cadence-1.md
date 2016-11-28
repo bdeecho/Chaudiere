@@ -40,7 +40,7 @@ Les _Cadences_ se veulent donc être les soirées qui manquent actuellement dans
 * Lieu : Hall ou restaurant universitaire du site de Saint-Martin
 * Places : 340 à 430 (+ ~30 staff et sécurité)
 * Artistes : 3
-* Tarifs : 7€(Adhérent)/10€ à 12€(Non-adhérent)
+* Tarifs : 7€(Adhérent)/10€(Non-adhérent)
 
 ### Démarche
 
@@ -201,15 +201,15 @@ Le pire des cas contient des dépenses non obligatoires ou encore en discussion 
 |------------------------|----------|----------|---------|----------|
 | Communication          | 176,27   |          |         | 176,27   |
 | Solutions-événement    | 390,53   | 117,16   |         | 390,53   |
-| Barnum\*               | 3295,21  | 988.53   | 1000    | 4295,21  |
+| Barnum\*               | 3295,21  | 988,53   | 1000    | 4295,21  |
 | Décision-acoustiques   | 1512,0   |          |         | 1512,0   |
 | Kiloutou               | 314,6    |          |         | 314,6    |
 | Réfléchi-son           | 3959,04  |          |         | 3959,04  |
 | Sécurité & gardiennage | 3300,0   |          |         | 3300,0   |
 | Artistes               | 1500,0   |          |         | 1500,0   |
 | Astreinte              | 1749,6   |          |         | 1749,0   |
-| SACEM\*                | 1891,7   |          |         | 1891,7   |
-| TOTAL                  | 18088,95 | 1105.69  | 1000    | 19088,95 |
+| SACEM\*                | 1781,67  |          |         | 1781,67  |
+| TOTAL                  | 17978,92 | 1105,69  | 1000    | 18978,92 |
 
 
 #### Meilleur des cas
@@ -218,13 +218,13 @@ Le pire des cas contient des dépenses non obligatoires ou encore en discussion 
 |------------------------|----------|----------|---------|----------|
 | Communication          | 176,27   |          |         | 176,27   |
 | Solutions-événement    | 390,53   | 117,16   |         | 390,53   |
-| Barnum\*               | 3295,21  | 988.53   | 1000    | 4295,21  |
+| Barnum\*               | 3295,21  | 988,53   | 1000    | 4295,21  |
 | Décision-acoustiques   | 1512,0   |          |         | 1512,0   |
 | Réfléchi-son           | 2969,28  |          |         | 2969,28  |
 | Sécurité & gardiennage | 3300,0   |          |         | 3300,0   |
 | Artistes               | 1500,0   |          |         | 1500,0   |
-| SACEM\*                | 1555,76  |          |         | 1555,76  |
-| TOTAL                  | 14699,05 | 1105.69  | 1000    | 15699,05 |
+| SACEM\*                | 1445,76  |          |         | 1445,76  |
+| TOTAL                  | 14589,05 | 1105,69  | 1000    | 15589,05 |
 
 _*Les prix peuvent évoluer en fonction du nombre de personnes et du lieu._
 
@@ -241,19 +241,19 @@ _*Les prix peuvent évoluer en fonction du nombre de personnes et du lieu._
 
 ### 340 Personnes
 
-| Source  | Moyenne\*| Maximum |
+| Source  | Moyenne\*| Maximum|
 |---------|---------|---------|
-| Bar     | 3962.5  | 5100    |
-| Entrées | 3340    | 3400    |
-| TOTAL   | 7302.5  | 8500    | 
+| Bar     | 3962,5  | 5100    |
+| Entrées | 3040    | 3100    |
+| TOTAL   | 7002,5  | 8200    | 
 
 ### 430 Personnes
 
-| Source  | Moyenne\*| Maximum |
+| Source  | Moyenne\*| Maximum|
 |---------|---------|---------|
-| Bar     | 4675    | 6000    |
+| Bar     | 5087,5  | 6450    |
 | Entrées | 3940    | 4000    |
-| TOTAL   | 8615    | 10000   | 
+| TOTAL   | 9027,5  | 10450   | 
 
 _*La moyenne correspond à 2 pintes par personne pour le bar, et 20 adhérents et tout le reste tout public pour les entrées._
 
@@ -276,18 +276,18 @@ TODO, j'ai fais un tableau "simplifié" en me basant sur celui de base, faut me 
 
 | Source                     | Moyenne  | Maximum  |
 |----------------------------|----------|----------|
-| Recettes totales           | 7302,5   | 8500     |
-| Dépenses totales           | 14699,05 | 14699,05 |
-| TOTAL                      | -8396.55 | -7199.05 |
+| Recettes totales           | 7002,5   | 8200     |
+| Dépenses totales           | 14589,05 | 14589,05 |
+| TOTAL                      | -7586,55 | -6389,05 |
 
 
 #### Pire des cas
 
 | Source                     | Moyenne  | Maximum  |
 |----------------------------|----------|----------|
-| Recettes totales           |  7302,5  |  8500    |
-| Dépenses totales           | 18088,95 | 18088,95 |
-| TOTAL                      |-10786,45 |- 9588,95 |
+| Recettes totales           |  7002,5  |  8200    |
+| Dépenses totales           | 17978,92 | 17978,92 |
+| TOTAL                      |-10976,42 |- 9778,92 |
 
 ### 430 Personnes
 TODO, j'ai fais un tableau "simplifié" en me basant sur celui de base, faut me dire si ça vous va.
@@ -299,26 +299,26 @@ TODO, j'ai fais un tableau "simplifié" en me basant sur celui de base, faut me 
 | Coût Bar                   | -3295.21 | -3295.21 |
 | Coût Agrémentation         | -1402.44 | -1402.44 |
 | Coût Sécurité              | ----     | ----     |
-| Coût Sonorisation + Lights | -5321.26 | -5321.26 |
-| TOTAL                      | -3993.91 | -2818.91 |
+| Coût Sonorisation + Lights | -5321,26 | -5321,26 |
+| TOTAL                      | -3993.91 | -2818,91 |
 
 #### Meilleur des cas
 
 | Source                     | Moyenne  | Maximum  |
 |----------------------------|----------|----------|
-| Recettes totales           |  8615    | 10000    |
-| Dépenses totales           | 15399,05 | 15399,05 |
-| TOTAL                      |- 6784.05 |- 5399.05 |
+| Recettes totales           |  9027,5  | 10450    |
+| Dépenses totales\*         | 15629,03 | 15629,03 |
+| TOTAL                      |- 6601,55 |- 5179,03 |
 
 #### Pire des cas
 
 | Source                     | Moyenne  | Maximum  |
 |----------------------------|----------|----------|
-| Recettes totales           |  8615    | 10000    |
-| Dépenses totales           | 18788,95 | 18788,95 |
-| TOTAL                      |-10173,95 |- 8788,95 |
+| Recettes totales           |  9027,5  | 10450    |
+| Dépenses totales\*         | 19018,93 | 19018,93 |
+| TOTAL                      |- 9991,43 |- 8568,93 |
 
-\*Les cautions sont exclues du bilan.
+_\*Les dépenses ont été calculés en ajustant le devis barnum à la main ainsi que la SACEM._
 
 ### Cautions
 
