@@ -255,7 +255,7 @@ _*Les prix peuvent évoluer en fonction du nombre de personnes et du lieu._
 | Entrées | 3940    | 4000    |
 | TOTAL   | 9027,5  | 10450   | 
 
-_*La moyenne correspond à 2 pintes par personne pour le bar, et 20 adhérents et tout le reste tout public pour les entrées._
+_*La moyenne correspond à 2 pintes par personne auquel on ajoute le remboursement des fûts non consommés pour le bar. Pour les entrées on considère que ça correspond à la vente de 20 billets adhérents et le reste au tarif tout public._
 
 ## Bilan prévisionnel
 
