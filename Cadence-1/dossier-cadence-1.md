@@ -260,17 +260,6 @@ _*La moyenne correspond à 2 pintes par personne auquel on ajoute le rembourseme
 ## Bilan prévisionnel
 
 ### 340 Personnes
-TODO, j'ai fais un tableau "simplifié" en me basant sur celui de base, faut me dire si ça vous va.
-
-| Source                     | Moyenne  | Maximum  |
-|----------------------------|----------|----------|
-| Recette Bar                | 3962.5   | 5100     |
-| Entrées                    | 3340     | 3400     |
-| Coût Bar                   | -3295.21 | -3295.21 |
-| Coût Agrémentation         | -1402.44 | -1402.44 |
-| Coût Sécurité              | ----     | ----     |
-| Coût Sonorisation + Lights | -5321.26 | -5321.26 |
-| TOTAL                      | -3993.91 | -2818.91 |
 
 #### Meilleur des cas
 
@@ -290,17 +279,6 @@ TODO, j'ai fais un tableau "simplifié" en me basant sur celui de base, faut me 
 | TOTAL                      |-10976,42 |- 9778,92 |
 
 ### 430 Personnes
-TODO, j'ai fais un tableau "simplifié" en me basant sur celui de base, faut me dire si ça vous va.
-
-| Source                     | Moyenne  | Maximum  |
-|----------------------------|----------|----------|
-| Recette Bar                | 3600     | 4200     |
-| Entrées                    | 2425     | 3000     |
-| Coût Bar                   | -3295.21 | -3295.21 |
-| Coût Agrémentation         | -1402.44 | -1402.44 |
-| Coût Sécurité              | ----     | ----     |
-| Coût Sonorisation + Lights | -5321,26 | -5321,26 |
-| TOTAL                      | -3993.91 | -2818,91 |
 
 #### Meilleur des cas
 
