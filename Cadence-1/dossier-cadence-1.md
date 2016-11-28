@@ -74,11 +74,14 @@ Le fumoir, placé à l'extérieur du bâtiment, permettera également aux partic
 Un _food truck_ local sera potentiellement présent à l'extérieur afin de proposer un point de nourriture (_encore en négociations_).
 
 #### Restaurant Universitaire Saint-Martin
-TODO
 
 ![RU Saint-Martin](https://github.com/bdeecho/Chaudiere/raw/master/Images/RU_StMartin.jpg)
 
+Le second lieu choisis est le restaurant universitaire du site de Saint-Martin. Cette grande salle de presque 500m² est parfaitement adapté pour accueuillir ce genre d'événement. En revanche, il ne bénéficie pas du rayonnement du Hall vis à vis de la vie universitaire.
+
 ![Plan RU Saint-Martin](https://github.com/bdeecho/Chaudiere/raw/master/Images/Plan%20Cadence%20%231%20RU%201.jpg)
+TODO
+
 ### Prestataires
 
 Afin d'assurer une soirée se déroulant dans des conditions optimales, nous avons fait le choix de recourir à des prestatires s'occupant des points critiques de l'événement. De cette façon, nous pouvons nous assurer de la qualité de l'événement et des prestations offertes aux participants, tout en déportant la charge de travail avant la soirée, plutôt que sur l'instant; nous permettant de gérer le projet dans sa globalité lors de l'événement.
@@ -100,7 +103,7 @@ La livraison et la récupération du matériel, des boissons consommées (fûts)
 En ce qui concerne le vestiaire lors de l’événement, nous souhaitons proposer une solution propre et sécurisée aux participants à l'aide de matériel dédié et de l'utilisation d'un système de ticket.
 Dans cette optique, et pour limiter les problèmes logistiques liés au stockage, nous faisons appel à une entreprise départementale (Solution événements) qui nous permet de palier à ce sujet lors de notre événement avec un coût maîtrisé.
 
-#### Sécurité
+#### Sécurité (balisage)
 
 * Prestataire : Kiloutou
 * Prestation : 
@@ -170,22 +173,46 @@ La **Société des auteurs, compositeurs et éditeurs de musique (Sacem)** est u
 
 Société privée à but non lucratif, contrôlée par la Commission de contrôle, émanation de la Cour des Comptes, les administrations fiscales et sociales, un commissaire aux comptes et ses sociétaires. Créée le 28 février 1851, **elle a pour mission principale d'assurer la collecte et la répartition des droits dus aux auteurs, compositeurs et éditeurs de musique qui sont ses membres**. Si certaines formules alternatives, comme la musique libre, se sont peu à peu développées, la Sacem représente l'immense majorité du répertoire musical, avec 153 000 sociétaires et plus de 90 millions d'œuvres représentées.
 
+Afin d'avoir le droit de diffusé de la musique durant notre événement, nous devons signer un contrat et payer une redevance à la SACEM. Le tarif est un pourcentage se basant sur les dépenses de l'événement, 11% dans le cas de musique vivante.
 
 ### Dépenses
 _Vous retrouverez les devis joints au dossier, où figure le détail de chaque prestataire._
 _La partie Caution détaille notamment le montant Décisions Acoustiques._
 
+#### Pire des cas
+
+Le pire des cas contient des dépenses non obligatoire ou encore en discussion comme l'astreinte ou le matériel de balisage par exemple. Ce cas contient aussi le prix de reflechi-son sans le rabais dont l'Université de Cergy-Pontoise bénéficie.
+
 | Prestataire            | Devis    | Accompte | Caution | TOTAL    |
 |------------------------|----------|----------|---------|----------|
 | Communication          | 176,27   |          |         | 176,27   |
 | Solutions-événement    | 390,53   | 117,16   |         | 390,53   |
-| Barnum                 | 3295,21  | 988.53   | 1000    | 4295,21  |
-| Décision-acoustiques   | 1510,0   |          |         | 1512,0   |
+| Barnum*                | 3295,21  | 988.53   | 1000    | 4295,21  |
+| Décision-acoustiques   | 1512,0   |          |         | 1512,0   |
 | Kiloutou               | 314,6    |          |         | 314,6    |
 | Réfléchi-son           | 3959,04  |          |         | 3959,04  |
 | Sécurité & gardiennage | 3300,0   |          |         | 3300,0   |
 | Artistes               | 1500,0   |          |         | 1500,0   |
-| TOTAL                  | 14445,65 | 1105.69  | 1000    | TODO     |
+| Astreinte              | 1749,6   |          |         | 1749,0   |
+| SACEM*                 | 1891,7   |          |         | 1891,7   |
+| TOTAL                  | 18088,95 | 1105.69  | 1000    | 19088,95 |
+
+
+#### Meilleur des cas
+
+| Prestataire            | Devis    | Accompte | Caution | TOTAL    |
+|------------------------|----------|----------|---------|----------|
+| Communication          | 176,27   |          |         | 176,27   |
+| Solutions-événement    | 390,53   | 117,16   |         | 390,53   |
+| Barnum*                | 3295,21  | 988.53   | 1000    | 4295,21  |
+| Décision-acoustiques   | 1512,0   |          |         | 1512,0   |
+| Réfléchi-son           | 2969,28  |          |         | 2969,28  |
+| Sécurité & gardiennage | 3300,0   |          |         | 3300,0   |
+| Artistes               | 1500,0   |          |         | 1500,0   |
+| SACEM*                 | 1555,76  |          |         | 1555,76  |
+| TOTAL                  | 14699,05 | 1105.69  | 1000    | 15699,05 |
+
+_*Les prix peuvent évoluer en fonction du nombre de personnes_
 
 ## Tarifs
 
@@ -193,7 +220,7 @@ _La partie Caution détaille notamment le montant Décisions Acoustiques._
 |----------------|---------------|-------------------|
 | Demi Heineken  | 3             | 3                 |
 | Pinte Heineken | 5             | 5                 |
-| Entrées        | 7             | 10                |
+| Entrées        | 7             | 10 à 12           |
 | Soft           | 0             | 0                 |
 
 ## Recettes
@@ -208,6 +235,11 @@ TODO
 
 ### 450 Personnes
 TODO
+| Source  | Moyenne | Maximum |
+|---------|---------|---------|
+| Bar     | 3600    | 4200    |
+| Entrées | 2425    | 3000    |
+| TOTAL   | 6025    | 7200    | 
 
 ## Bilan prévisionnel
 
@@ -225,7 +257,7 @@ TODO
 
 ### Cautions
 
-
+La seule caution concerne le bar et s'élève à 1000€. Cette dernière pourra être éviter à l'aide des assurances.
 
 ## Risques et enjeux
 
