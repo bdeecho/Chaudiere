@@ -96,7 +96,7 @@ Afin d'assurer une soirée se déroulant dans des conditions optimales, nous avo
 #### Bar
 
 * Prestataire : [Barnum](http://www.barnum.fr/)
-* Prestation : Location, livraison, installation, surveillance
+* Prestation : Location, livraison, récupération, installation, surveillance
 
 
 Ce prestataire nous fournit les boissons alcoolisées (bière) et non alcoolisées (soda), le matériel de tirage, ainsi que des bacs à glaçons. L'installation du matériel est comprise, ainsi que la vérification de fonctionnement par un technicien au cours de la soirée.
@@ -105,7 +105,7 @@ La livraison et la récupération du matériel, des boissons consommées (fûts)
 #### Vestiaire
 
 * Prestataire : [Solutions-événement](http://www.solutions-evenements.fr/)
-* Prestation : 
+* Prestation : Location, livraison, récupération
 
 En ce qui concerne le vestiaire lors de l’événement, nous souhaitons proposer une solution propre et sécurisée aux participants à l'aide de matériel dédié et de l'utilisation d'un système de ticket.
 Dans cette optique, et pour limiter les problèmes logistiques liés au stockage, nous faisons appel à une entreprise départementale (Solution événements) qui nous permet de palier à ce sujet lors de notre événement avec un coût maîtrisé.
@@ -113,7 +113,7 @@ Dans cette optique, et pour limiter les problèmes logistiques liés au stockage
 #### Sécurité (balisage)
 
 * Prestataire : [Kiloutou](http://www.loca-reception.fr/)
-* Prestation : 
+* Prestation : Location, récupération
 
 La sécurité durant notre événement est primordiale, que ce soit pour nos participants et le staff dans un premier temps, mais aussi pour les locaux et le matériel mis en place.
 
@@ -127,7 +127,7 @@ Un des points critiques est le fumoir/food-truck. En effet, situé au niveau de 
 #### Prévention
 
 * Prestataires : Croix Rouge, avenir-santé
-* Prestation : 
+* Prestation : Permanence en cas de problème médical, prévention auprès des participants
 
 La prévention est un point essentiel de notre événement. Le fait que nous proposons de l'alcool nous oblige à réfléchir à des dispositifs de sécurisation et d'évaluation pour les personnes consommatrices, mais les drogues sont aussi un danger qu'il nous faut considérer.
 
@@ -139,7 +139,7 @@ La prévention se fait aussi par la distribution gratuite de boissons non alcool
 #### Sonorisation et lumières
 
 * Prestataire : [Décisions Acoustiques](http://www.decisions-acoustiques.fr/), [réfléchi'son](http://www.reflechi-son.fr/)
-* Prestation : Location, livraison, installation, réglages
+* Prestation : Location, livraison, récupération, installation, réglages
 
 Cette section est, avec la section prévention de l'événement, la plus importante. 
 Décisions Acoustiques est une entreprise s'occupant d'un important nombre d'aspects -dans notre cas critiques- d'un événement.
