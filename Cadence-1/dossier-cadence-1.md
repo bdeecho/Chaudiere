@@ -91,7 +91,7 @@ Un des avantages avec le restaurant universitaire et que nous pouvons offrir aux
 
 ### Prestataires
 
-Afin d'assurer une soirée se déroulant dans des conditions optimales, nous avons fait le choix de recourir à des prestatires s'occupant des points critiques de l'événement. De cette façon, nous pouvons nous assurer de la qualité de l'événement et des prestations offertes aux participants, tout en déportant la charge de travail avant la soirée, plutôt que sur l'instant; nous permettant de gérer le projet dans sa globalité lors de l'événement.
+Afin d'assurer une soirée se déroulant dans des conditions optimales, nous avons fait le choix de recourir à des prestatires s'occupant des points critiques de l'événement. De cette façon, nous pouvons nous assurer de la qualité de l'événement et des prestations offertes aux participants, tout en déportant la charge de travail avant la soirée, plutôt que sur l'instant, nous permettant de gérer le projet dans sa globalité lors de l'événement.
 
 #### Bar
 
