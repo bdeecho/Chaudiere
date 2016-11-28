@@ -77,17 +77,17 @@ Un _food truck_ local sera potentiellement présent à l'extérieur afin de prop
 
 ![RU Saint-Martin](https://github.com/bdeecho/Chaudiere/raw/master/Images/RU_StMartin.jpg)
 
-Le second lieu choisis est le restaurant universitaire du site de Saint-Martin. Cette grande salle de presque 500m² est parfaitement adapté pour accueuillir ce genre d'événement. En revanche, il ne bénéficie pas du rayonnement du Hall vis à vis de la vie universitaire.
+Le second lieu choisi est le restaurant universitaire du site de Saint-Martin. Cette grande salle de presque 500m² est parfaitement adaptée pour accueuillir ce genre d'événement. En revanche, il ne bénéficie pas du rayonnement du Hall qui est un passage obligatoire pour tous les étudiants de l'université.
 
 ![Plan RU Saint-Martin](https://github.com/bdeecho/Chaudiere/raw/master/Images/Plan%20Cadence%20%231%20RU%201.jpg)
 
 Les règles de sécurité sont les mêmes que dans le cas du Hall Saint-Martin.
 
-La queue ainsi que l'entrée se fera au niveau des escaliers menant aux amphithêatres E1 et Colloque. Le vestiaire sera situé à l'entrée de l'amphithêatre E1, ce dernier permettra de stocker les portants et ne sera accessible uniquement par le staff afin d'éviter tout vol.
+La queue ainsi que l'entrée se fera au niveau des escaliers menant aux amphithéâtres E1 et Colloque. Le vestiaire sera situé à l'entrée de l'amphithéâtre E1, ce dernier permettra de stocker les portants et sera accessible uniquement par les membres du staff afin d'éviter tout vol.
 Dans la salle principale, nous utiliserons les coins prévus aux handicapés habituellement pour y installer les stands de préventions. L'angle au fond de la salle permettra d'y placer le bar de manière stratégique, évitant ainsi la foule autour de la scène tout en ayant un espace assez large permettant de gérer l'affluence.
-La terrasse extérieur servira de fumoir et sera fermée à l'aide de barrière de chantier évitant tout intrusion d'individu extérieur.
+La terrasse extérieure servira de fumoir et sera fermée à l'aide de barrières de chantier évitant tout intrusion d'individu extérieure.
 En ce qui concerne le food-truck, nous verrons cela lors des prochaines réunions techniques.
-Un des avantages avec le restaurant universitaire et que nous pouvons offrir aux artistes un véritable espace privée en utilisant l'espace habituel des professeurs.
+Un des avantages avec le restaurant universitaire et que nous pouvons offrir aux artistes un véritable espace privé en utilisant l'espace habituel des professeurs.
 
 ### Prestataires
 
@@ -156,7 +156,9 @@ De plus, Décisons Acoustiques ayant travaillé sur la sonorisation d'événemen
 ![StLaz2](http://s2.lemde.fr/image/2016/09/05/534x0/4992419_6_a456_2016-09-05-11d8c20-20722-jpmda4_9651759de02d9a28ea12cc1d0cb0885b.jpg)
 
 
-TODO réfléchi'son
+Réfléchi'son est le prestataire qui nous fournit la sonorisation et les lumières. En plus des nombreuses références en matière de prestation, Réfléchi'son est parfaitement équipé pour répondre à notre demande pour un tel événement.
+De plus, ayant un contrat avec l'Université de Cergy-Pontoise, cela nous permet de faire des économies sur les tarifs qu'ils proposent en bénéficiant du tarif préférentiel de l'Université.
+Enfin, Décisions-acoustiques et Réfléchi'son ont déjà travaillé ensemble, favorisant ainsi une bonne cohésion entre ces deux prestataires qui est plus que primordial pour assurer un événement le plus professionnel possible.
 
 ### Partenaires
 
@@ -185,7 +187,7 @@ La **Société des auteurs, compositeurs et éditeurs de musique (Sacem)** est u
 
 Société privée à but non lucratif, contrôlée par la Commission de contrôle, émanation de la Cour des Comptes, les administrations fiscales et sociales, un commissaire aux comptes et ses sociétaires. Créée le 28 février 1851, **elle a pour mission principale d'assurer la collecte et la répartition des droits dus aux auteurs, compositeurs et éditeurs de musique qui sont ses membres**. Si certaines formules alternatives, comme la musique libre, se sont peu à peu développées, la Sacem représente l'immense majorité du répertoire musical, avec 153 000 sociétaires et plus de 90 millions d'œuvres représentées.
 
-Afin d'avoir le droit de diffusé de la musique durant notre événement, nous devons signer un contrat et payer une redevance à la SACEM. Le tarif est un pourcentage se basant sur les dépenses de l'événement, 11% dans le cas de musique vivante.
+Afin d'avoir le droit de diffuser de la musique durant notre événement, nous devons signer un contrat et payer une redevance à la SACEM. Le tarif est un pourcentage se basant sur les dépenses de l'événement, 11% dans le cas de musique vivante.
 
 ### Dépenses
 
@@ -193,20 +195,20 @@ _Vous retrouverez les devis joints au dossier, où figure le détail de chaque p
 
 #### Pire des cas
 
-Le pire des cas contient des dépenses non obligatoire ou encore en discussion comme l'astreinte ou le matériel de balisage par exemple. Ce cas contient aussi le prix de reflechi-son sans le rabais dont l'Université de Cergy-Pontoise bénéficie.
+Le pire des cas contient des dépenses non obligatoires ou encore en discussion comme l'astreinte ou le matériel de balisage par exemple. Ce cas contient aussi le prix de reflechi-son sans le rabais dont l'Université de Cergy-Pontoise bénéficie.
 
 | Prestataire            | Devis    | Accompte | Caution | TOTAL    |
 |------------------------|----------|----------|---------|----------|
 | Communication          | 176,27   |          |         | 176,27   |
 | Solutions-événement    | 390,53   | 117,16   |         | 390,53   |
-| Barnum*                | 3295,21  | 988.53   | 1000    | 4295,21  |
+| Barnum\*               | 3295,21  | 988.53   | 1000    | 4295,21  |
 | Décision-acoustiques   | 1512,0   |          |         | 1512,0   |
 | Kiloutou               | 314,6    |          |         | 314,6    |
 | Réfléchi-son           | 3959,04  |          |         | 3959,04  |
 | Sécurité & gardiennage | 3300,0   |          |         | 3300,0   |
 | Artistes               | 1500,0   |          |         | 1500,0   |
 | Astreinte              | 1749,6   |          |         | 1749,0   |
-| SACEM*                 | 1891,7   |          |         | 1891,7   |
+| SACEM\*                | 1891,7   |          |         | 1891,7   |
 | TOTAL                  | 18088,95 | 1105.69  | 1000    | 19088,95 |
 
 
@@ -216,15 +218,15 @@ Le pire des cas contient des dépenses non obligatoire ou encore en discussion c
 |------------------------|----------|----------|---------|----------|
 | Communication          | 176,27   |          |         | 176,27   |
 | Solutions-événement    | 390,53   | 117,16   |         | 390,53   |
-| Barnum*                | 3295,21  | 988.53   | 1000    | 4295,21  |
+| Barnum\*               | 3295,21  | 988.53   | 1000    | 4295,21  |
 | Décision-acoustiques   | 1512,0   |          |         | 1512,0   |
 | Réfléchi-son           | 2969,28  |          |         | 2969,28  |
 | Sécurité & gardiennage | 3300,0   |          |         | 3300,0   |
 | Artistes               | 1500,0   |          |         | 1500,0   |
-| SACEM*                 | 1555,76  |          |         | 1555,76  |
+| SACEM\*                | 1555,76  |          |         | 1555,76  |
 | TOTAL                  | 14699,05 | 1105.69  | 1000    | 15699,05 |
 
-_*Les prix peuvent évoluer en fonction du nombre de personnes et du lieu_
+_*Les prix peuvent évoluer en fonction du nombre de personnes et du lieu._
 
 ## Tarifs
 
@@ -239,7 +241,7 @@ _*Les prix peuvent évoluer en fonction du nombre de personnes et du lieu_
 
 ### 340 Personnes
 
-| Source  | Moyenne*| Maximum |
+| Source  | Moyenne\*| Maximum |
 |---------|---------|---------|
 | Bar     | 3962.5  | 5100    |
 | Entrées | 3340    | 3400    |
@@ -247,16 +249,49 @@ _*Les prix peuvent évoluer en fonction du nombre de personnes et du lieu_
 
 ### 430 Personnes
 
-| Source  | Moyenne*| Maximum |
+| Source  | Moyenne\*| Maximum |
 |---------|---------|---------|
 | Bar     | 4675    | 6000    |
 | Entrées | 3940    | 4000    |
 | TOTAL   | 8615    | 10000   | 
 
-_*La moyenne correspond à 2 pintes par personnes pour le bar, et 20 adhérents et tout le reste tout public pour les entrées._
+_*La moyenne correspond à 2 pintes par personne pour le bar, et 20 adhérents et tout le reste tout public pour les entrées._
 
 ## Bilan prévisionnel
-TODO
+
+### 340 Personnes
+TODO, j'ai fais un tableau "simplifié" en me basant sur celui de base, faut me dire si ça vous va.
+
+| Source                     | Moyenne  | Maximum  |
+|----------------------------|----------|----------|
+| Recette Bar                | 3962.5   | 5100     |
+| Entrées                    | 3340     | 3400     |
+| Coût Bar                   | -3295.21 | -3295.21 |
+| Coût Agrémentation         | -1402.44 | -1402.44 |
+| Coût Sécurité              | ----     | ----     |
+| Coût Sonorisation + Lights | -5321.26 | -5321.26 |
+| TOTAL                      | -3993.91 | -2818.91 |
+
+#### Meilleur des cas
+
+| Source                     | Moyenne  | Maximum  |
+|----------------------------|----------|----------|
+| Recettes totales           | 7302,5   | 8500     |
+| Dépenses totales           | 14699,05 | 14699,05 |
+| TOTAL                      | -8396.55 | -7199.05 |
+
+
+#### Pire des cas
+
+| Source                     | Moyenne  | Maximum  |
+|----------------------------|----------|----------|
+| Recettes totales           |  7302,5  |  8500    |
+| Dépenses totales           | 18088,95 | 18088,95 |
+| TOTAL                      |-10786,45 |- 9588,95 |
+
+### 430 Personnes
+TODO, j'ai fais un tableau "simplifié" en me basant sur celui de base, faut me dire si ça vous va.
+
 | Source                     | Moyenne  | Maximum  |
 |----------------------------|----------|----------|
 | Recette Bar                | 3600     | 4200     |
@@ -266,6 +301,22 @@ TODO
 | Coût Sécurité              | ----     | ----     |
 | Coût Sonorisation + Lights | -5321.26 | -5321.26 |
 | TOTAL                      | -3993.91 | -2818.91 |
+
+#### Meilleur des cas
+
+| Source                     | Moyenne  | Maximum  |
+|----------------------------|----------|----------|
+| Recettes totales           |  8615    | 10000    |
+| Dépenses totales           | 15399,05 | 15399,05 |
+| TOTAL                      |- 6784.05 |- 5399.05 |
+
+#### Pire des cas
+
+| Source                     | Moyenne  | Maximum  |
+|----------------------------|----------|----------|
+| Recettes totales           |  8615    | 10000    |
+| Dépenses totales           | 18788,95 | 18788,95 |
+| TOTAL                      |-10173,95 |- 8788,95 |
 
 \*Les cautions sont exclues du bilan.
 
