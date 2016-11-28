@@ -68,7 +68,7 @@ Le premier lieu choisi est le Hall du site de Saint-Martin : Fort de ses 500m²,
 
 ![Plan soirée](https://github.com/bdeecho/Chaudiere/raw/master/Images/plan%20ST%20Martin-hall%20d'entr%C3%A9e-annote%20(1).jpg)
 
-La queue se fera à l'extérieur de l'Université. A l'entrée, des vigiles fouilleront les participants à la recherche de produits interdits (dangereux ou illicites). L'état de la personne sera également évaluée, afin de ne pas faire rentrer de personnes en état d'ébriété manifeste. Ensuite, le vestiaire gratuit permettra aux participants de se décharger de leurs affaires. Des stands de prévention se trouveront en face de l'entrée, permettant la distribution de dispositifs contraceptifs, mais aussi d'éthylotests et de bouchons d'oreille. 
+La queue se fera à l'extérieur de l'Université. A l'entrée, une première vérification des billets ainsi qu'un marquage sur la main à l'aide d'un tampon sera effectué. Des vigiles fouilleront visuellement les participants à la recherche de produits interdits (dangereux ou illicites). L'état de la personne sera également évaluée, afin de ne pas faire rentrer de personnes en état d'ébriété manifeste. Ensuite, le vestiaire gratuit permettra aux participants de se décharger de leurs affaires. Des stands de prévention se trouveront en face de l'entrée, permettant la distribution de dispositifs contraceptifs, mais aussi d'éthylotests et de bouchons d'oreille. 
 Le bar se trouvera à droite de la piste de danse, et disposera de deux tireuses, permettant de mieux gérer l'affluence. L'eau et les boissons non alcoolisées seront gratuites, dans une démarche de prévention et de gestion des risques liés à l'alcool.
 Le fumoir, placé à l'extérieur du bâtiment, permettera également aux participants de s'aérer. Cette zone sera protégée par des barrières de chantier, et un vigile sera placé à l'extérieur, pour éviter tout débordement, comportement à risque ou intrusion de personnes étrangères à l'événement.
 Un _food truck_ local sera potentiellement présent à l'extérieur afin de proposer un point de nourriture (_encore en négociations_).
@@ -81,7 +81,13 @@ Le second lieu choisis est le restaurant universitaire du site de Saint-Martin. 
 
 ![Plan RU Saint-Martin](https://github.com/bdeecho/Chaudiere/raw/master/Images/Plan%20Cadence%20%231%20RU%201.jpg)
 
-TODO
+Les règles de sécurité sont les mêmes que dans le cas du Hall Saint-Martin.
+
+La queue ainsi que l'entrée se fera au niveau des escaliers menant aux amphithêatres E1 et Colloque. Le vestiaire sera situé à l'entrée de l'amphithêatre E1, ce dernier permettra de stocker les portants et ne sera accessible uniquement par le staff afin d'éviter tout vol.
+Dans la salle principale, nous utiliserons les coins prévus aux handicapés habituellement pour y installer les stands de préventions. L'angle au fond de la salle permettra d'y placer le bar de manière stratégique, évitant ainsi la foule autour de la scène tout en ayant un espace assez large permettant de gérer l'affluence.
+La terrasse extérieur servira de fumoir et sera fermée à l'aide de barrière de chantier évitant tout intrusion d'individu extérieur.
+En ce qui concerne le food-truck, nous verrons cela lors des prochaines réunions techniques.
+Un des avantages avec le restaurant universitaire et que nous pouvons offrir aux artistes un véritable espace privée en utilisant l'espace habituel des professeurs.
 
 ### Prestataires
 
@@ -89,7 +95,7 @@ Afin d'assurer une soirée se déroulant dans des conditions optimales, nous avo
 
 #### Bar
 
-* Prestataire : [Barnum]()
+* Prestataire : Barnum
 * Prestation : Location, livraison, installation, surveillance
 
 
