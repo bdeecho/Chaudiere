@@ -37,8 +37,8 @@ Les _Cadences_ se veulent donc être les soirées qui manquent actuellement dans
 * Date : 10 Février 2017
 * Horaires public : 20h-02h
 * Horaires staff (installation, désinstallation, nettoyage) : 19h-06h
-* Lieu : Hall ou restaurant universitaire du site de Saint-Martin
-* Places : 340 à 430 (+ ~30 staff et sécurité)
+* Lieu : Restaurant Universitaire du site de Saint-Martin
+* Places : 430 (+ ~30 staff et sécurité)
 * Artistes : 3
 * Tarifs : 7€(Adhérent)/10€(Non-adhérent)
 
@@ -61,18 +61,6 @@ Nous travaillons avec la radio [Squaresound](http://www.squaresound.eu/) et leur
 
 ### Lieu et plan
 
-#### Hall Saint-Martin
-![Hall Saint-Martin](https://github.com/bdeecho/Chaudiere/raw/master/Images/IMG_20161007_143030.jpg)
-
-Le premier lieu choisi est le Hall du site de Saint-Martin : Fort de ses 500m², il saura accueilir dans de bonnes conditions les participants à l'événement. De plus, grâce à sa forme, il nous permet de placer de façon optimale les différents espaces de l'événement.
-
-![Plan soirée](https://github.com/bdeecho/Chaudiere/raw/master/Images/plan%20ST%20Martin-hall%20d'entr%C3%A9e-annote%20(1).jpg)
-
-La queue se fera à l'extérieur de l'Université. A l'entrée, une première vérification des billets ainsi qu'un marquage sur la main à l'aide d'un tampon sera effectué. Des vigiles fouilleront visuellement les participants à la recherche de produits interdits (dangereux ou illicites). L'état de la personne sera également évaluée, afin de ne pas faire rentrer de personnes en état d'ébriété manifeste. Ensuite, le vestiaire gratuit permettra aux participants de se décharger de leurs affaires. Des stands de prévention se trouveront en face de l'entrée, permettant la distribution de dispositifs contraceptifs, mais aussi d'éthylotests et de bouchons d'oreille. 
-Le bar se trouvera à droite de la piste de danse, et disposera de deux tireuses, permettant de mieux gérer l'affluence. L'eau et les boissons non alcoolisées seront gratuites, dans une démarche de prévention et de gestion des risques liés à l'alcool.
-Le fumoir, placé à l'extérieur du bâtiment, permettera également aux participants de s'aérer. Cette zone sera protégée par des barrières de chantier, et un vigile sera placé à l'extérieur, pour éviter tout débordement, comportement à risque ou intrusion de personnes étrangères à l'événement.
-Un _food truck_ local sera potentiellement présent à l'extérieur afin de proposer un point de nourriture (_encore en négociations_).
-
 #### Restaurant Universitaire Saint-Martin
 
 ![RU Saint-Martin](https://github.com/bdeecho/Chaudiere/raw/master/Images/RU_StMartin.jpg)
@@ -83,11 +71,15 @@ Le second lieu choisi est le restaurant universitaire du site de Saint-Martin. C
 
 Les règles de sécurité sont les mêmes que dans le cas du Hall Saint-Martin.
 
-La queue ainsi que l'entrée se fera au niveau des escaliers menant aux amphithéâtres E1 et Colloque. Le vestiaire sera situé à l'entrée de l'amphithéâtre E1, ce dernier permettra de stocker les portants et sera accessible uniquement par les membres du staff afin d'éviter tout vol.
-Dans la salle principale, nous utiliserons les coins prévus aux handicapés habituellement pour y installer les stands de préventions. L'angle au fond de la salle permettra d'y placer le bar de manière stratégique, évitant ainsi la foule autour de la scène tout en ayant un espace assez large permettant de gérer l'affluence.
-La terrasse extérieure servira de fumoir et sera fermée à l'aide de barrières de chantier évitant tout intrusion d'individu extérieure.
-En ce qui concerne le food-truck, nous verrons cela lors des prochaines réunions techniques.
-Un des avantages avec le restaurant universitaire et que nous pouvons offrir aux artistes un véritable espace privé en utilisant l'espace habituel des professeurs.
+La queue ainsi que l'entrée se fera au niveau des escaliers menant aux amphithéâtres E1 et Colloque. À l'entrée une vérification des billets d'entrées est effectué ainsi qu'une fouille visuelle des sacs. Tout participant trouvé avec des produits interdits (dangereux ou illicites) se vera tout simplement refusé l'entrée. Les bouteilles retrouvés sur les participants seront refusées et jetées. L'état de la personne sera également évaluée, afin de pas faire rentrer de personnes en état d'ébriété manifeste.
+Le vestiaire gratuit sera situé à l'entrée de l'amphithéâtre E1, ce dernier permettra de stocker les portants et sera accessible uniquement par les membres du staff afin d'éviter tout vol.
+Dans la salle principale, nous utiliserons les coins prévus aux handicapés habituellement pour y installer les stands de préventions permettant la distribution de dispositifs contraceptifs, mais aussi d'éthylotests et de bouchons d'oreille gratuitement.
+L'angle au fond de la salle permettra d'y placer le bar de manière stratégique, évitant ainsi la foule autour de la scène tout en ayant un espace assez large permettant de gérer l'affluence. Le bar sera équipé de deux meubles chacun composé de 2 colonnes tireuses permettant d'assurer un débit de distribution élevé et éviter les regroupements massif autour du bar. L'eau et les boissons non alcoolisées seront gratuites, dans une démarche de prévention et de gestion des risques liés à l'alcool.
+Le fumoir, placé à l'extérieur du bâtiment au niveau de la terrasse , permettera également aux participants de s'aérer. Cette zone sera protégée par des barrières de chantier, et un vigile sera placé à l'extérieur, pour éviter tout débordement, comportement à risque ou intrusion de personnes étrangères à l'événement.
+Un 
+Un _food truck_ local sera potentiellement présent à l'extérieur afin de proposer un point de nourriture (_encore en négociations_).
+
+Un des avantages avec le restaurant universitaire et que nous pouvons offrir aux artistes un véritable espace privé en utilisant l'espace habituel des professeurs, permettant ainsi d'accueillir les artistes dans de bonne conditions.
 
 ### Prestataires
 
@@ -201,7 +193,7 @@ Le pire des cas contient des dépenses non obligatoires ou encore en discussion 
 |------------------------|----------|----------|---------|----------|
 | Communication          | 176,27   |          |         | 176,27   |
 | Solutions-événement    | 390,53   | 117,16   |         | 390,53   |
-| Barnum\*               | 3295,21  | 988,53   | 1000    | 4295,21  |
+| Barnum\*               | 4232,13  | 1269.64  | 1000    | 4295,21  |
 | Décision-acoustiques   | 1512,0   |          |         | 1512,0   |
 | Kiloutou               | 314,6    |          |         | 314,6    |
 | Réfléchi-son           | 3959,04  |          |         | 3959,04  |
@@ -218,7 +210,7 @@ Le pire des cas contient des dépenses non obligatoires ou encore en discussion 
 |------------------------|----------|----------|---------|----------|
 | Communication          | 176,27   |          |         | 176,27   |
 | Solutions-événement    | 390,53   | 117,16   |         | 390,53   |
-| Barnum\*               | 3295,21  | 988,53   | 1000    | 4295,21  |
+| Barnum\*               | 4232,13  | 1269.64  | 1000    | 4295,21  |
 | Décision-acoustiques   | 1512,0   |          |         | 1512,0   |
 | Réfléchi-son           | 2969,28  |          |         | 2969,28  |
 | Sécurité & gardiennage | 3300,0   |          |         | 3300,0   |
@@ -226,7 +218,7 @@ Le pire des cas contient des dépenses non obligatoires ou encore en discussion 
 | SACEM\*                | 1445,76  |          |         | 1445,76  |
 | TOTAL                  | 14589,05 | 1105,69  | 1000    | 15589,05 |
 
-_*Les prix peuvent évoluer en fonction du nombre de personnes et du lieu._
+_*Les prix ont été calculer à la main se basant sur les prix des devis pour 340 personnes._
 
 ## Tarifs
 
