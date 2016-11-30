@@ -206,15 +206,16 @@ Le pire des cas contient des dépenses non obligatoires ou encore en discussion 
 |------------------------|----------|----------|---------|----------|
 | Communication          | 176,27   |          |         | 176,27   |
 | Solutions-événement    | 390,53   | 117,16   |         | 390,53   |
-| Barnum\*               | 4232,13  | 1269.64  | 1000    | 4295,21  |
+| Barnum                 | 4041,03  | 1212.31  | 1000    | 4041,03  |
 | Décision-acoustiques   | 1512,0   |          |         | 1512,0   |
 | Kiloutou               | 314,6    |          |         | 314,6    |
 | Réfléchi-son           | 3959,04  |          |         | 3959,04  |
 | Sécurité & gardiennage | 3300,0   |          |         | 3300,0   |
 | Artistes               | 1500,0   |          |         | 1500,0   |
 | Astreinte              | 1749,6   |          |         | 1749,0   |
-| SACEM\*                | 1781,67  |          |         | 1781,67  |
-| TOTAL                  | 17978,92 | 1105,69  | 1000    | 18978,92 |
+| SACEM                  | 1863,74  |          |         | 1863,74  |
+| T-shirts               | 120,0    |          |         | 120,0    |
+| TOTAL                  | 18926,81 | 1329,47  | 1000    | 19926,81 |
 
 
 #### Meilleur des cas
@@ -223,15 +224,15 @@ Le pire des cas contient des dépenses non obligatoires ou encore en discussion 
 |------------------------|----------|----------|---------|----------|
 | Communication          | 176,27   |          |         | 176,27   |
 | Solutions-événement    | 390,53   | 117,16   |         | 390,53   |
-| Barnum\*               | 4232,13  | 1269.64  | 1000    | 4295,21  |
+| Barnum                 | 4041,03  | 1212,31  | 1000    | 4041,03  |
 | Décision-acoustiques   | 1512,0   |          |         | 1512,0   |
 | Réfléchi-son           | 2969,28  |          |         | 2969,28  |
 | Sécurité & gardiennage | 3300,0   |          |         | 3300,0   |
 | Artistes               | 1500,0   |          |         | 1500,0   |
-| SACEM\*                | 1445,76  |          |         | 1445,76  |
-| TOTAL                  | 14589,05 | 1105,69  | 1000    | 15589,05 |
+| SACEM                  | 1527,8€  |          |         | 1445,76  |
+| T-shirts               | 120,0    |          |         | 120,0    |
+| TOTAL                  | 15536,91 | 1329,47  | 1000    | 16536,91 |
 
-_*Les prix ont été calculer à la main se basant sur les prix des devis pour 340 personnes._
 
 ## Tarifs
 
@@ -239,69 +240,38 @@ _*Les prix ont été calculer à la main se basant sur les prix des devis pour 3
 |----------------|---------------|-------------------|
 | Demi Heineken  | 3             | 3                 |
 | Pinte Heineken | 5             | 5                 |
-| Entrées        | 7             | 10 à 12           |
+| Entrées        | 7             | 10                |
 | Soft           | 0             | 0                 |
 
 ## Recettes
-
-### 340 Personnes
-
-| Source  | Moyenne\*| Maximum|
-|---------|---------|---------|
-| Bar     | 3962,5  | 5100    |
-| Entrées | 3040    | 3100    |
-| TOTAL   | 7002,5  | 8200    | 
-
-### 430 Personnes
 
 | Source  | Moyenne\*| Maximum|
 |---------|---------|---------|
 | Bar     | 5087,5  | 6450    |
 | Entrées | 3940    | 4000    |
-| TOTAL   | 9027,5  | 10450   | 
+| Caution | 1000    | 1000    |
+| TOTAL   | 10027,5 | 11450   | 
 
 _*La moyenne correspond à 2 pintes par personne auquel on ajoute le remboursement des fûts non consommés pour le bar. Pour les entrées on considère que ça correspond à la vente de 20 billets adhérents et le reste au tarif tout public._
 
 ## Bilan prévisionnel
 
-### 340 Personnes
-
-#### Meilleur des cas
+### Pire des cas
 
 | Source                     | Moyenne  | Maximum  |
 |----------------------------|----------|----------|
-| Recettes totales           | 7002,5   | 8200     |
-| Dépenses totales           | 14589,05 | 14589,05 |
-| TOTAL                      | -7586,55 | -6389,05 |
+| Recettes totales           | 10027,5  | 11450    |
+| Dépenses totales\*         | 19926,81 | 19926,81 |
+| TOTAL                      |- 9899,31 |- 8476,81 |
 
-
-#### Pire des cas
-
-| Source                     | Moyenne  | Maximum  |
-|----------------------------|----------|----------|
-| Recettes totales           |  7002,5  |  8200    |
-| Dépenses totales           | 17978,92 | 17978,92 |
-| TOTAL                      |-10976,42 |- 9778,92 |
-
-### 430 Personnes
-
-#### Meilleur des cas
+### Meilleur des cas
 
 | Source                     | Moyenne  | Maximum  |
 |----------------------------|----------|----------|
-| Recettes totales           |  9027,5  | 10450    |
-| Dépenses totales\*         | 15629,03 | 15629,03 |
-| TOTAL                      |- 6601,55 |- 5179,03 |
+| Recettes totales           | 10027,5  | 11450    |
+| Dépenses totales\*         | 16536,91 | 16536,91 |
+| TOTAL                      |- 6509.41 |- 5086.91 |
 
-#### Pire des cas
-
-| Source                     | Moyenne  | Maximum  |
-|----------------------------|----------|----------|
-| Recettes totales           |  9027,5  | 10450    |
-| Dépenses totales\*         | 19018,93 | 19018,93 |
-| TOTAL                      |- 9991,43 |- 8568,93 |
-
-_\*Les dépenses ont été calculés en ajustant le devis barnum à la main ainsi que la SACEM._
 
 ### Cautions
 
