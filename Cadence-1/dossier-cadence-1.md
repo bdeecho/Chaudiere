@@ -65,11 +65,9 @@ Nous travaillons avec la radio [Squaresound](http://www.squaresound.eu/) et leur
 
 ![RU Saint-Martin](https://github.com/bdeecho/Chaudiere/raw/master/Images/RU_StMartin.jpg)
 
-Le second lieu choisi est le restaurant universitaire du site de Saint-Martin. Cette grande salle de presque 500m² est parfaitement adaptée pour accueuillir ce genre d'événement. En revanche, il ne bénéficie pas du rayonnement du Hall qui est un passage obligatoire pour tous les étudiants de l'université.
+Le lieu choisi est le restaurant universitaire du site de Saint-Martin. Cette grande salle de presque 500m² est parfaitement adaptée pour accueuillir ce genre d'événement. En revanche, il ne bénéficie pas du rayonnement du Hall qui est un passage obligatoire pour tous les étudiants de l'université.
 
 ![Plan RU Saint-Martin](https://github.com/bdeecho/Chaudiere/raw/master/Images/Plan%20Cadence%20%231%20RU%201.jpg)
-
-Les règles de sécurité sont les mêmes que dans le cas du Hall Saint-Martin.
 
 La queue ainsi que l'entrée se fera au niveau des escaliers menant aux amphithéâtres E1 et Colloque. À l'entrée une vérification des billets d'entrées est effectué ainsi qu'une fouille visuelle des sacs. Tout participant trouvé avec des produits interdits (dangereux ou illicites) se vera tout simplement refusé l'entrée. Les bouteilles retrouvés sur les participants seront refusées et jetées. L'état de la personne sera également évaluée, afin de pas faire rentrer de personnes en état d'ébriété manifeste.
 Le vestiaire gratuit sera situé à l'entrée de l'amphithéâtre E1, ce dernier permettra de stocker les portants et sera accessible uniquement par les membres du staff afin d'éviter tout vol.
@@ -87,6 +85,8 @@ Afin d'assurer une soirée se déroulant dans des conditions optimales, nous avo
 
 #### Bar
 
+![Barnum](https://github.com/bdeecho/Chaudiere/raw/master/Images/logo.png)
+
 * Prestataire : [Barnum](http://www.barnum.fr/)
 * Prestation : Location, livraison, récupération, installation, surveillance
 
@@ -96,6 +96,8 @@ La livraison et la récupération du matériel, des boissons consommées (fûts)
 
 #### Vestiaire
 
+![Solutions événement](https://github.com/bdeecho/Chaudiere/raw/master/Images/logo_solution_evenement.png)
+
 * Prestataire : [Solutions-événement](http://www.solutions-evenements.fr/)
 * Prestation : Location, livraison, récupération
 
@@ -103,6 +105,8 @@ En ce qui concerne le vestiaire lors de l’événement, nous souhaitons propose
 Dans cette optique, et pour limiter les problèmes logistiques liés au stockage, nous faisons appel à une entreprise départementale (Solution événements) qui nous permet de palier à ce sujet lors de notre événement avec un coût maîtrisé.
 
 #### Sécurité (balisage)
+
+![Loca réception (groupe Kiloutou)](https://github.com/bdeecho/Chaudiere/raw/master/Images/loca-reception-1426876132.jpg)
 
 * Prestataire : [Kiloutou](http://www.loca-reception.fr/)
 * Prestation : Location, récupération
@@ -118,6 +122,9 @@ Un des points critiques est le fumoir/food-truck. En effet, situé au niveau de 
 
 #### Prévention
 
+<img src="https://github.com/bdeecho/Chaudiere/raw/master/Images/yifTHAJE.jpg" width="150">
+![Avenir santé](https://github.com/bdeecho/Chaudiere/raw/master/Images/logo-avenir-sante.png)
+
 * Prestataires : Croix Rouge, avenir-santé
 * Prestation : Permanence en cas de problème médical, prévention auprès des participants
 
@@ -129,6 +136,8 @@ La prévention se fait aussi par la distribution gratuite de boissons non alcool
 
 
 #### Sonorisation et lumières
+
+<img src="https://github.com/bdeecho/Chaudiere/raw/master/Images/decision acoustique logo.jpg" width="250">
 
 * Prestataire : [Décisions Acoustiques](http://www.decisions-acoustiques.fr/), [réfléchi'son](http://www.reflechi-son.fr/)
 * Prestation : Location, livraison, récupération, installation, réglages
@@ -147,6 +156,7 @@ De plus, Décisons Acoustiques ayant travaillé sur la sonorisation d'événemen
 
 ![StLaz2](http://s2.lemde.fr/image/2016/09/05/534x0/4992419_6_a456_2016-09-05-11d8c20-20722-jpmda4_9651759de02d9a28ea12cc1d0cb0885b.jpg)
 
+![Réfléchi'son](https://github.com/bdeecho/Chaudiere/raw/master/Images/logo_refrechi-son.png)
 
 Réfléchi'son est le prestataire qui nous fournit la sonorisation et les lumières. En plus des nombreuses références en matière de prestation, Réfléchi'son est parfaitement équipé pour répondre à notre demande pour un tel événement.
 De plus, ayant un contrat avec l'Université de Cergy-Pontoise, cela nous permet de faire des économies sur les tarifs qu'ils proposent en bénéficiant du tarif préférentiel de l'Université.
@@ -156,11 +166,14 @@ Enfin, Décisions-acoustiques et Réfléchi'son ont déjà travaillé ensemble, 
 
 ### Camion du Vexin
 
+<img src="https://github.com/bdeecho/Chaudiere/raw/master/Images/camion du vexin logo.jpg" width="250">
+
 Nous avons démarché différents partenaires afin de proposer un événement de très grande qualité aux participants. Comme dit précédemment, nous apportons une importance à promouvoir les entrepreneurs locaux :  ainsi le Camion du Vexin sera présent lors de notre événement afin de proposer en début de soirée des repas aux participants et au staff comme il le fait tous les midi sur le site des Chênes.
 
 ### SquareSound
 
 ![sqsnd](http://www.squaresound.eu/wp-content/uploads/2016/08/SquareSound_Logo_White_355x100.png)
+
 Un autre point important et le soutien apporté par Squaresound que ce soit sur le plan promotionnel, technique et artisitique. En effet, Squaresound serait prêt à partager avec nous leur savoir faire dans la mise en place de la retransmission de l'événement en ligne, mais aussi à organiser des interviews des artistes durant l'événement. De plus, ils nous permettent de profiter de leur carnet d'adresses afin de booker des artistes pour nos événements. Squaresound est proche du collectif LaRuche, qui organise divers événements sur l'Université.
 
 ### Association(s)
